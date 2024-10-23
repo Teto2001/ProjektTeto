@@ -1,0 +1,12 @@
+Cattext_name;Dialogfenster;Parameter;Oberbegriff;Bezeichnung;Vorlage_txt;Text_pfad
+Surveillance des signes vitaux; Surveillance MDD_SaO2; SpO2 / Fréquence respiratoire; Surveillance SpO2 ; ;
+Valeurs vitales; Surveillance; MDD_AF; SpO2 / Fréquence respiratoire; Fréquence respiratoire; ;
+Valeurs vitales ; Pression artérielle / Fréquence cardiaque ; MDD_HF ; Pression artérielle / Fréquence cardiaque ; Fréquence cardiaque ; ;
+Signes vitaux; Tension artérielle / Fréquence cardiaque; Tension artérielle / Fréquence cardiaque; MDD_HF; Fréquence cardiaque; RD Premier diagnostic; RD Premier diagnostic
+Valeurs vitales; Tension artérielle / Fréquence cardiaque; MDD_PF; Tension artérielle / Fréquence cardiaque; Fréquence du pouls de SpO2; ;
+Signes vitaux; Tension artérielle / Fréquence cardiaque; MDD_IBP-syst; Tension artérielle / Fréquence cardiaque; Pression artérielle systolique; ;
+Valeurs vitales;Tension artérielle / Fréquence cardiaque;MDD_IBP;Tension artérielle / Fréquence cardiaque;avec pression art; ;
+Valeurs vitales; Tension artérielle / Fréquence cardiaque; MDD_IBP-moyenne; Tension artérielle / Fréquence cardiaque; avec pression d'art; ;
+Valeurs vitales; Tension artérielle / Fréquence cardiaque; MDD_IBP-diast; Tension artérielle / Fréquence cardiaque; Pression artérielle diastolique; ;
+Valeurs vitales; Pression artérielle / Fréquence cardiaque; MDD_NBP-syst; Pression artérielle / Fréquence cardiaque; Pression non invas Druck; ;
+Valeurs vitales; Tension artérielle / Fréquence cardiaque; Tension artérielle / Fréquence cardiaque; MDD_NBP-syst; Pression non invas Sys; RD Premier diagnostic; RD Premier diagnostic

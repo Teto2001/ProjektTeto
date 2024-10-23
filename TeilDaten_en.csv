@@ -1,0 +1,50 @@
+Cattext_name;Dialogfenster;Parameter;Oberbegriff;Bezeichnung;Vorlage_txt;Text_pfad
+Vital signs; Monitoring; MDD_SaO2; SpO2 /Breathing rate; SpO2 - Monitoring; ;
+Vital signs; Monitoring; MDD_AF; SpO2 / Respiratory rate; Respiratory rate; ;
+Vital signs; Blood pressure / Heart rate; MDD_HF; Blood pressure / Heart rate; Heart rate; ;
+Vital signs; Blood pressure / Heart rate; Blood pressure / Heart rate; MDD_HF; Heart rate; Initial diagnosis RD; Initial diagnosis RD
+Vital Signs; Blood Pressure / Heart Rate; MDD_PF; Blood Pressure / Heart Rate; Pulse Rate of SpO2; ;
+Vital signs; Blood pressure / Heart rate; MDD_IBP-syst; Blood pressure / Heart rate; Sys art Pressure; ;
+Vital signs; Blood pressure / Heart rate; MDD_IBP; Blood pressure / Heart rate; with art pressure; ;
+Vital signs; Blood pressure / Heart rate; MDD_IBP-mean; Blood pressure / Heart rate; with type pressure; ;
+Vital signs; Blood pressure / Heart rate; MDD_IBP-diast; Blood pressure / Heart rate; Dia art pressure; ;
+Vital signs; Blood pressure / Heart rate; MDD_NBP-syst; Blood pressure / Heart rate; Non-invasive systolic pressure; ;
+Vital signs; Blood Pressure / Heart Rate; Blood Pressure / Heart Rate; MDD_NBP-syst; Non-invasive Systemic Pressure; RD Initial Diagnosis; RD Initial Diagnosis
+Vital signs; Blood pressure / Heart rate; MDD_NBP; Blood pressure / Heart rate; With non-invasive pressure; ;
+Vital signs;Blood pressure / Heart rate;MDD_NBP-mean;Blood pressure / Heart rate;With non-inv pressure; ;
+Vital signs; Blood pressure / Heart rate; MDD_NBP-diast; Blood pressure / Heart rate; Dia noninv Pressure; ;
+Vital signs; Blood pressure / Heart rate; Blood pressure / Heart rate; MDD_NBP-diast; Dia non-invasive pressure; RD Initial diagnosis; RD Initial diagnosis
+Vital signs; Pulmonary arterial pressure; MDD_PAP-syst; Pulmonary arterial pressure; Sys PAP Pressure; ;
+Vital signs; Pulmonary arterial pressure; MDD_PAP; Pulmonary arterial pressure; With PAP pressure; ;
+Vital signs; Pulmonary arterial pressure; MDD_PAP-mean; pulmonary arterial pressure; With PAP pressure; ;
+Vital signs;Pulmonary arterial pressure;MDD_PAP-diast;Pulmonary arterial pressure;Dia PAP Pressure; ;
+Vital signs; monitoring; spontaneous breathing rate; SpO2 / breathing rate; spontaneous breathing rate; ;
+Vital signs; monitoring; MDD_SAO2_2; SaO2 - Diagnostics; SpO2 - Diagnostics; ;
+Vital signs; monitoring; MDD_Temp; Temperature; Temperature; ;
+Vital signs; monitoring; temperature; MDD_Temp; temperature; ear measurement; ear measurement
+Vital signs; monitoring; temperature; MDD_Temp; temperature; rectal measurement; rectal measurement
+Vital Signs; Monitoring; Temperature; MDD_Temp; Temperature; Sublingual Measurement; Sublingual Measurement
+Vital signs; monitoring; temperature; MDD_Temp; temperature; axillary measurement; axillary measurement
+Vital signs; monitoring; temperature; MDD_Temp; temperature; ---; ---
+Vital signs; monitoring; temperature; MDD_Temp; temperature; RD Initial diagnosis; RD Initial diagnosis
+Vital signs; Monitoring; Blood; Blood temperature; Blood; ;
+Vital signs; monitoring; MDD_Temp1; Additional temperature monitoring; Additional temperature monitoring; ;
+Vital signs;Hemodynamics;MDD_CVP;CVP;CVP (mmHg); ;
+Vital Signs;Hemodynamics;CVP;MDD_CVP;CVP (mmHg);Measurement Point: Internal Jugular Vein;Measurement Point: Internal Jugular Vein.
+Vital signs; Hemodynamics; CVP; MDD_CVP; CVP (mmHg); Measurement point: Groin; Measurement point: Groin
+Vital Signs;Hemodynamics;CVP;MDD_CVP;CVP (mmHg);Measurement Point Subclavia;Measurement Point Subclavia
+Vital Signs;Hemodynamics;CVP;MDD_CVP;CVP (mmHg);without ventilation;without ventilation
+Vital Signs; Hemodynamics; Central Venous Pressure; Mean Central Venous Pressure; Central Venous Pressure (mmHg); with ventilation PEEP........; with ventilation PEEP........
+Vital signs; Hemodynamics; CVP; MDD_CVP; CVP (mmHg); Curve inconspicuous; Curve inconspicuous
+Vital signs; Hemodynamics; CVP; MDD_CVP; CVP (mmHg); A- Wave present; A- Wave present
+Vital signs; Hemodynamics; CVP; MDD_CVP; CVP (mmHg); V-wave present; V-wave present
+Vital Signs; Hemodynamics PICCO; MDD_C.I .; CI (3-5) ; CI [l/min/m2] Cardiac Index ; ;
+Vital signs; monitoring; MDD_SQI; SQI; SQI; ;
+Vital Signs; Hemodynamics PICCO; MDD_SV; SV; SV [ml] Stroke Volume; ;
+Vital signs; monitoring; MDD_Tblood; Temperature; Blood temperature (PICCO); ;
+Vital signs; monitoring; MDD_BIS; BIS; BIS; ;
+Vital signs; monitoring; MDD_Temp2; Temperature Additional Monitoring 2; Temperature Additional Monitoring 2; ;
+Vital signs; Hemodynamics PICCO; MDD_SVV; SVV; SVV [%]                Stroke Volume Variation; ;
+Vital signs; Hemodynamics PICCO; MDD_SVRI; SVRI (1700-2400); SVRI; ;
+Vital signs; Hemodynamics PICCO;MDD_EVLWI;EVLWI     (3-7);EVLWI [ml/kg]  Extravascular Lung Water Index;;
+Vital signs; Hemodynamics PICCO; MDD_ITBVI; ITBVI (850-1000); ITBVI [ml/m2] intrathoracic Blood Volume Index; ;

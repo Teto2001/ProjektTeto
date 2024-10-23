@@ -1,0 +1,200 @@
+Cattext_name                ;Dialogfenster                                    ;Parameter                                                     ;Oberbegriff                                                   ;Bezeichnung                                                                                  ;Vorlage_txt                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ;Text_pfad
+Surveillance des signes vitaux ; Surveillance de MDD_SaO2 ; SpO2 / Fréquence respiratoire ; Surveillance de SpO2 ; ;
+Surveillance des signes vitaux ; MDD_AF ; SpO2 / Fréquence respiratoire ; Fréquence respiratoire ; ;
+Signes vitaux ; Pression artérielle / Fréquence cardiaque ; MDD_HF ; Pression artérielle / Fréquence cardiaque ; Fréquence cardiaque ; ;
+Valeurs vitales ; Tension artérielle / Fréquence cardiaque ; Tension artérielle / Fréquence cardiaque ; MDD_HF ; Fréquence cardiaque ; Premier diagnostic RD ; Premier diagnostic RD
+Valeurs vitales; Tension artérielle / Fréquence cardiaque; MDD_PF; Tension artérielle / Fréquence cardiaque; Fréquence du pouls de SpO2; ;
+Valeurs vitales ;Pression artérielle / Fréquence cardiaque ;MDD_IBP-syst ;Pression artérielle / Fréquence cardiaque ;Pression artérielle systémique ; ;
+Valeurs vitales ; Tension artérielle / Fréquence cardiaque ; MDD_IBP ; Tension artérielle / Fréquence cardiaque ; avec art Pression ; ;
+Valeurs vitales ; Pression artérielle / Fréquence cardiaque ; MDD_IBP-moyen ; Pression artérielle / Fréquence cardiaque ; avec pression art ; ;
+Valeurs vitales ; Pression artérielle / Fréquence cardiaque ; MDD_IBP-diast ; Pression artérielle / Fréquence cardiaque ; Pression art Dia ; ;
+Valeurs vitales ;Tension artérielle / Fréquence cardiaque ;MDD_NBP-syst ;Tension artérielle / Fréquence cardiaque ;Pression Sys non invasif ; ;
+Valeurs vitales ;Pression artérielle / Fréquence cardiaque ;Pression artérielle / Fréquence cardiaque ;MDD_NBP-syst ;Pression non invasive Sys ;Premier diagnostic RD ;Premier diagnostic RD
+Valeurs vitales ; Pression sanguine / Fréquence cardiaque ; MDD_NBP ; Pression sanguine / Fréquence cardiaque ; Avec pression non invasive ; ;
+Signes vitaux ; Tension artérielle / Fréquence cardiaque ; MDD_NBP-moyenne ; Tension artérielle / Fréquence cardiaque ; Avec pression non invasive ; ;
+Valeurs vitales ; Pression artérielle / Fréquence cardiaque ; MDD_NBP-diast ; Pression artérielle / Fréquence cardiaque ; Pression non invasive Dia ; ;
+Valeurs vitales ; Tension artérielle / Fréquence cardiaque ; Tension artérielle / Fréquence cardiaque ; MDD_NBP-diast ; Pression diastolique non invasive ; RD Premier diagnostic ; RD Premier diagnostic
+Signes vitaux ; Pression artérielle pulmonaire ; MDD_PAP-syst ; Pression artérielle pulmonaire ; Pression Sys PAP ; ;
+Valeurs vitales ; Pression artérielle pulmonaire ; MDD_PAP ; Pression artérielle pulmonaire ; Avec pression PAP ; ;
+Valeurs vitales ; Pression artérielle pulmonaire ; MDD_PAP-moyenne ; pression artérielle pulmonaire ; Avec la pression PAP ; ;
+Signes vitaux ; Pression artérielle pulmonaire ; MDD_PAP-diast ; Pression artérielle pulmonaire ; Pression PAP diastolique ; ;
+Surveillance des signes vitaux ; fréquence respiratoire spontanée ; SpO2 / fréquence respiratoire ; fréquence respiratoire spontanée ; ;
+Surveillance des signes vitaux ; MDD_SAO2_2 ; SaO2 - Diagnostique ; SpO2 - Diagnostique ; ;
+Surveillance des signes vitaux ; Surveillance MDD_Temp ; Température ; Température ; ;
+Surveillance des signes vitaux ; Température ; MDD_Temp ; Température ; Mesure auriculaire ; Mesure auriculaire
+Surveillance des signes vitaux ; Température ; MDD_Temp ; Température ; Mesure rectale ; Mesure rectale
+Surveillance des signes vitaux ; Température ; MDD_Temp ; Température ; Mesure sous-linguale ; Mesure sous-linguale
+Surveillance des signes vitaux ; Température ; MDD_Temp ; Température ; Mesure axillaire ; Mesure axillaire
+Surveillance des signes vitaux ; Température ; MDD_Temp ; Température ; --- ; ---
+Surveillance des signes vitaux ; Température ; MDD_Temp ; Température ; Premier diagnostic RD ; Premier diagnostic RD
+Surveillance des signes vitaux ; Surveillance TBlut ; Température du sang ; TBlut ; ;
+Surveillance des signes vitaux ; Surveillance MDD_Temp1 ; Surveillance supplémentaire de la température ; Surveillance supplémentaire de la température ; ;
+Valeurs vitales ;Hémodynamique ;MDD_ZVD ;ZVD ;ZVD (mmHg) ; ;
+Valeurs vitales ; Hémodynamique ; ZVD ; MDD_ZVD ; ZVD (mmHg) ; Point de mesure : V. Jugulaire int. ; Point de mesure : V. Jugulaire int.
+Valeurs vitales ; Hémodynamique ; ZVD ; MDD_ZVD ; ZVD (mmHg) ; Point de mesure : Aine ; Point de mesure : Aine
+Vitalités ;Hémodynamique ;ZVD ;MDD_ZVD ;ZVD (mmHg) ;Point de mesure Subclavia ;Point de mesure Subclavia
+Valeurs vitales ;Hémodynamique ;ZVD ;MDD_ZVD ;ZVD (mmHg) ;sans ventilation ;sans ventilation
+Valeurs vitales ; Hémodynamique ; ZVD ; MDD_ZVD ; ZVD (mmHg) ; avec ventilation PEEP........ ; avec ventilation PEEP........
+Paramètres vitaux ; Hémodynamique ; ZVD ; MDD_ZVD ; ZVD (mmHg) ; Courbe non significative ; Courbe non significative
+Valeurs vitales ;Hémodynamique ;ZVD ;MDD_ZVD ;ZVD (mmHg) ;Onde A présente ;Onde A présente
+Valeurs vitales ; Hémodynamique ; ZVD ; MDD_ZVD ; ZVD (mmHg) ; Vague V présente ; Vague V présente
+Valeurs vitales ; Hémodynamique PICCO ; MDD_C.I. ; CI (3-5) ; CI [l/min/m2] Indice cardiaque ; ;
+Surveillance des signes vitaux ; MDD_SQI ; SQI ; SQI ; ;
+Valeurs vitales ;Hémodynamique PICCO ;MDD_SV ;SV ;SV [ml] Volume d'éjection systolique ; ;
+Surveillance des signes vitaux ; MDD_Tblood ; Température ; Température du sang (PICCO) ; ;
+Surveillance des signes vitaux ; MDD_BIS ; BIS ; BIS ; ;
+Surveillance des signes vitaux ; MDD_Temp2 ; Surveillance supplémentaire de la température 2 ; Surveillance supplémentaire de la température 2 ; ;
+Valeurs vitales ; Hémodynamique PICCO ; MDD_SVV ; SVV ; SVV [%] Variation du Volume d'Éjection Systolique ; ;
+Valeurs vitales ;Hémodynamique PICCO ;MDD_SVRI ;SVRI ( 1700-2400 ) ;SVRI ; ;
+Valeurs vitales ; Hémodynamique PICCO ; MDD_EVLWI ; EVLWI (3-7) ; EVLWI [ml/kg] Index d'eau pulmonaire extravasculaire ; ;
+Valeurs vitales ; Hémodynamique PICCO ; MDD_ITBVI ; ITBVI ( 850-1000 ) ; ITBVI [ml/m2] Index de volume sanguin intrathoracique ; ;
+Valeurs vitales ;Hémodynamique PICCO ;MDD_GEDVI ; GEDVI ( 680-800 ) ; GEDVI [ml/m2] Index de volume end-diastolique global ; ;
+Valeurs vitales ;Hémodynamique PICCO ;MDD_HI ;HI (3-5) ;HI ; ;
+Vitalwerte; Hémodynamique PICCO; MDD_KOF; KOF; KOF;;
+Signes vitaux ; Tension artérielle / Fréquence cardiaque ; MDD_ICP ; ICP (Pression intracrânienne) ; ICP (Pression intracrânienne) ; ;
+Valeurs vitales ;NIRS ;rSO2 frontal dr. ;NIRS ;rSO2 frontal dr. ; ;
+Valeurs vitales ;NIRS ;rSO2 frontal li. ;NIRS ;rSO2 frontal li. ; ;
+Valeurs vitales ;NIRS ;Mirus (MAC) ;NIRS ;Mirus (MAC) ; ;
+Valeurs vitales ;Test1_alt ;TestPara1 ;Test1_alt ;TestPara1 ; ;
+Valeurs vitales ; Pression artérielle / Fréquence cardiaque_ancienne ; Pression intraabdominale ; Pression intraabdominale_ancienne ; Pression intraabdominale ; ;
+Valeurs vitales ;Commentaire ;Commentaire_3 ;Commentaire ;Commentaire ; ;
+Valeurs vitales ;Hémodynamique PICCO_alt ;MDD_CFI ;CFI_alt ;CFI [1/min] ; ;
+Valeurs vitales ; Narkotrend ; Stade / Indice ; Narkotrend ; Stade / Indice ; ;
+Valeurs vitales ;Narkotrend ;Narkotrend ;Stade /Index ;Stade /Index ;A ;A
+Valeurs vitales ;Narkotrend ;Narkotrend ;Stade / Index ;Stade / Index ;B0 ;B0
+Valeurs vitales ; Narkotrend ; Narkotrend ; Stade / Index ; Stade / Index ; B1 ; B1
+Valeurs vitales ; Narkotrend ; Narkotrend ; Stade / Index ; Stade / Index ; B2 ; B2
+Valeurs vitales ; Narkotrend ; Narkotrend ; Stade / Index ; Stade / Index ; C0 ; C0
+Valeurs vitales ;Narkotrend ;Narkotrend ;Stade /Index ;Stade /Index ;C1 ;C1
+Valeurs vitales ;Narkotrend ;Narkotrend ;Stade /Index ;Stade /Index ;C2 ;C2
+Valeurs vitales ;Narkotrend ;Narkotrend ;Stade /Index ;Stade /Index ;D0 ;D0
+Valeurs vitales ;Narkotrend ;Narkotrend ;Stade /Index ;Stade /Index ;D1 ;D1
+Valeurs vitales ;Narkotrend ;Narkotrend ;Stade /Index ;Stade /Index ;D2 ;D2
+Valeurs vitales ;Narkotrend ;Narkotrend ;Stade /Index ;Stade /Index ;E0 ;E0
+Valeurs vitales ; Narkotrend ; Narkotrend ; Stade / Index ; Stade / Index ; E1 ; E1
+Valeurs vitales ;Narkotrend ;Narkotrend ;Stade /Index ;Stade /Index ;E2 ;E2
+Valeurs vitales ;Narkotrend ;Narkotrend ;Stade /Index ;Stade /Index ;F0 ;F0
+Valeurs vitales ;Narkotrend ;Narkotrend ;Stade /Index ;Stade /Index ;F1 ;F1
+Valeurs vitales ;Narkotrend ;Narkotrend ;Stade /Index ;Stade /Index ;Commentaire ;Commentaire
+Valeurs vitales ;Narkotrend ;Type d'EEG ;Narkotrend ;Type d'EEG ; ;
+Valeurs vitales; Narkotrend; Narkotrend; Type d'EEG; Type d'EEG; 1-Canal; 1-Canal
+Valeurs vitales ;Narkotrend ;Narkotrend ;Type EEG ;Type EEG ;2-Canal ;2-Canal
+Valeurs vitales ;Narkotrend ;STI (ETP) ;Narkotrend ;STI (ETP) ; ;
+Valeurs vitales ;Narkotrend_alt ;A_1 ;Narkotrend_alt ;A ; ;
+Valeurs vitales ;Narkotrend_alt ;Commentaire ;Narkotrend_alt ;Commentaire ; ;
+Valeurs vitales ;Narkotrend_alt ;Stade / Indice ;Narkotrend_alt ;Stade / Indice ; ;
+Valeurs vitales ;Narkotrend_alt ;Narkotrend_alt ;Stade / Indice ;Stade / Indice ;A ;A
+Valeurs vitales ;Narkotrend_alt ;Narkotrend_alt ;Stade / Index ;Stade / Index ;B0 ;B0
+Valeurs vitales ;Narkotrend_alt ;Narkotrend_alt ;Stade / Index ;Stade / Index ;B1 ;B1
+Valeurs vitales ;Narkotrend_alt ;Narkotrend_alt ;Stade / Indice ;Stade / Indice ;B2 ;B2
+Valeurs vitales ;Narkotrend_alt ;Narkotrend_alt ;Stade / Index ;Stade / Index ;C0 ;C0
+Valeurs vitales ;Narkotrend_alt ;Narkotrend_alt ;Stade / Index ;Stade / Index ;C1 ;C1
+Valeurs vitales ;Narkotrend_alt ;Narkotrend_alt ;Stade / Index ;Stade / Index ;C2 ;C2
+Valeurs vitales ;Narkotrend_alt ;Narkotrend_alt ;Stade / Index ;Stade / Index ;D0 ;D0
+Valeurs vitales ;Narkotrend_alt ;Narkotrend_alt ;Stade / Indice ;Stade / Indice ;D1 ;D1
+Valeurs vitales ;Narkotrend_alt ;Narkotrend_alt ;Stade / Index ;Stade / Index ;D2 ;D2
+Valeurs vitales ;Narkotrend_alt ;Narkotrend_alt ;Stade / Index ;Stade / Index ;E0 ;E0
+Valeurs vitales ;Narkotrend_alt ;Narkotrend_alt ;Stade / Index ;Stade / Index ;E1 ;E1
+Valeurs vitales ;Narkotrend_alt ;Narkotrend_alt ;Stade / Index ;Stade / Index ;E2 ;E2
+Valeurs vitales ;Narkotrend_alt ;Narkotrend_alt ;Stade / Index ;Stade / Index ;F0 ;F0
+Valeurs vitales ;Narkotrend_alt ;Narkotrend_alt ;Stade / Index ;Stade / Index ;F1 ;F1
+Valeurs vitales ;Narkotrend_alt ;Taux de débit ILA ;Narkotrend_alt ;Taux de débit ILA ; ;
+Valeurs vitales ;ILA Novalung ;ml/min ;ILA Novalung ;ml/min ; ;
+Valeurs vitales ; Pression intra-abdominale ; Pression intra-abdominale_1 ; Pression intra-abdominale ; Pression intra-abdominale ; ;
+Valeurs vitales ;MIRUS (Sevorane Vol%)_alt ;Sevo Vol% ;MIRUS (Sevorane Vol%)_alt ;Sevo Vol% ; ;
+Valeurs vitales ;MIRUS (MAC) ;MAC ;MIRUS (MAC) ;MAC ; ;
+Dispositions ;Glycémie ;BG ;Glycémie ;BG ; ;
+Dispositions ; Glycémie ; Glycémie ; BG ; BG ; déterminé à la station ; déterminé à la station
+Dispositions ; Glycémie ; Glycémie ; BZ ; BZ ; déterminé en laboratoire ; déterminé en laboratoire
+Dispositions ; Laboratoire à domicile ; Analyse des gaz du sang ; AGS ; Analyse des gaz du sang ; ;
+Dispositions ; Laboratoire domestique ; BGA ; Analyse des gaz sanguins ; Analyse des gaz sanguins ; Z (Veine centrale),profil important) ; Z (veine centrale),grand profil)
+Dispositions ; Laboratoire interne ; BGA ; Analyse des gaz du sang ; Analyse des gaz du sang ; ZB (Veine centrale),Ventilation) ;ZB (Veine centrale),Ventilation)
+Dispositions ; Laboratoire domestique ; BGA ; Analyse des gaz du sang ; Analyse des gaz du sang ; ZB+ (Veine centrale),Beatmung plus) ; ZB+ (Veine centrale),Ventilation plus)
+Dispositions ; Laboratoire à domicile ; BGA ; Analyse de gaz sanguin ; Analyse de gaz sanguin ; A (Artériel),profil large) ;A (Artériel),grand profil)
+Dispositions ; Laboratoire domestique ; BGA ; Analyse des gaz sanguins ; Analyse des gaz sanguins ; AB (Artériel,Beatmung) ;AB (Artériel,Ventilation)
+Dispositions ; Laboratoire à domicile ; BGA ; Analyse des gaz du sang ; Analyse des gaz du sang ; AB+ (Artériel),Beatmung plus) ; AB+ (Artériel,Beatmung plus)
+Dispositions ; Laboratoire de maison ; BGA ; Analyse de gaz du sang ; Analyse de gaz du sang ; V (Veineuse),grand profil) ;V (Vénus),grand profil)
+Dispositions ;Laboratoire à domicile ;BGA ;Analyse des gaz sanguins ;Analyse des gaz sanguins ;VB (Veineux),Beatmung) ;VB (Veines,Ventilation
+Dispositions ; Laboratoire à domicile ; BGA ; Analyse des gaz du sang ; Analyse des gaz du sang ; VB+ (Veineuse),Beatmung plus) ;VB+ (Vén�s,Ventilation plus)
+Dispositions ;Laboratoire à domicile ;BGA ;Analyse de gaz sanguin ;Analyse de gaz sanguin ;K (Capillaire,grand profil); K (capillaire),grand profil)
+Dispositions ; Laboratoire à la maison ; BGA ; Analyse des gaz du sang ; Analyse des gaz du sang ; KB (Capillaire,Ventilation) ;KB (Capillaire,Ventilation)
+Dispositions ;Laboratoire de maison ;BGA ;Analyse des gaz sanguins ;Analyse des gaz sanguins ;KB+ (Capillaire,Beatmung plus) ;KB+ (Capillaire,Ventilation plus)
+Dispositions ;Laboratoire à domicile ;BGA ;Analyse des gaz du sang ;Analyse des gaz du sang ;Z/A Veine centrale + Artérielle ;Z/A Veine centrale + Artérielle
+Dispositions ; Laboratoire à domicile ; BGA ; Analyse des gaz du sang ; Analyse des gaz du sang ; Z/K Veine centrale + Capillaire ; Z/K Veine centrale + Capillaire
+Dispositions ; Laboratoire de maison ; Coagulation ; Coagulation ; Coagulation ; ;
+Dispositions ; Laboratoire à domicile ; Coagulation ; Coagulation ; Coagulation ; Rapide ; Rapide
+Dispositions ; Laboratoire à domicile ; Coagulation ; Coagulation ; Coagulation ; aPTT ; aPTT
+Dispositions ; Laboratoire à domicile ; Coagulation ; Coagulation ; Coagulation ; AT3 ; AT3
+Dispositions ;Laboratoire à domicile ;Coagulation ;Coagulation ;Coagulation ;Fibrinogène ;Fibrinogène
+Dispositions ;Laboratoire domestique ;Coagulation ;Coagulation ;Coagulation ;--- ;---
+Dispositions ; Laboratoire domestique ; Coagulation ; Coagulation ; Coagulation ; miroir anti-Xa ; miroir anti-Xa
+Dispositions ; Laboratoire à domicile ; Coagulation ; Coagulation ; Coagulation ; Temps de Thrombine ; Temps de Thrombine
+Dispositions ; Laboratoire à domicile ; Coagulation ; Coagulation ; Coagulation ; D-Dimère ; D-Dimère
+Dispositions ; Laboratoire à domicile ; Coagulation ; Coagulation ; Coagulation ; ROTEM ; ROTEM
+Dispositions ; Laboratoire à domicile ; Coagulation ; Coagulation ; Coagulation ; Facteur XIII ; Facteur XIII
+Dispositions ; Laboratoire de maison ; Profil de laboratoire D2/B2 Grand ; D2/B2 Grand/Petit ; Profil de laboratoire ; ;
+Dispositions ; Laboratoire de la maison ; D2/B2 Grand / Petit ; Profil du laboratoire D2/B2 Grand ; Profil du laboratoire ; D2/B2 Grand ; D2/B2 Grand
+Dispositions ; Laboratoire à domicile ; D2/B2 Grand/Petit ; Profil de laboratoire D2/B2 Grand ; Profil de laboratoire ; D2/B2 Petit ; D2/B2 Petit
+Dispositions ; Laboratoire Maison ; D2/B2 Grand/ petit ; Profil de laboratoire D2/B2 Grand ; Profil de laboratoire ; Dialyse D2 ; Dialyse D2
+Dispositions ; Laboratoire à domicile ; Valeurs de graisses ; Graisses ; Valeurs de graisses ; ;
+Dispositions ; Laboratoire à domicile ; Graisses ; Valeurs de graisse ; Valeurs de graisse ; Triglycérides ; Triglycérides
+Dispositions ; Laboratoire domestique ; Graisses ; Valeurs lipidiques ; Valeurs lipidiques ; HDL ; HDL
+Dispositions ; Laboratoire domestique ; Graisses ; Valeurs de graisse ; Valeurs de graisse ; LDL ; LDL
+Dispositions ;Laboratoire à domicile ;Graisses ;Valeurs de graisse ;Valeurs de graisse ;Cholestérol ;Cholestérol
+Dispositions ; Laboratoire de maison ; Paramètres de laboratoire individuels ; Valeurs de laboratoire spéciales dans notre maison ; Paramètres de laboratoire individuels (texte libre) ; ;
+Ordres ; Laboratoire à domicile ; Histogramme/Elpho/Statut-U ; Histo/Elpho/Statut-U ; Histogramme/Elpho/Urines ; ;
+Arrangements ; Laboratoire de maison ; Histo/Elpho/U-Status ; Histogramme/Elpho/U-Status ; Histogramme/Elpho/Urine ; Histogramme ; Histogramme
+Dispositions ; Laboratoire à domicile ; Histo/Elpho/U-Statut ; Histogramme/Elpho/U-Statut ; Histogramme/Elpho/Uriner ; pour la créatinine claire ; pour la créatinine claire
+Dispositions ;Laboratoire à domicile ;Histo/Elpho/U-Status ;Histogramme/Elpho/U-Status ;Histogramme/Elpho/Urines ;Électrophorèse ;Électrophorèse
+Dispositions ; Laboratoire à domicile ; Histo/Elpho/U-Statut ; Histogramme/Elpho/U-Statut ; Histogramme/Elpho/ Urine ; pour Catécholamines dans l'urine ; pour Catécholamines dans l'urine
+Dispositions ;Laboratoire à domicile ;Histo/Elpho/Statut-U ;Histogramme/Elpho/Statut-U ;Histogramme/Elpho/Urine ;Statut-U ;Statut-U
+Dispositions; Laboratoire à domicile; Histo/Elpho/Statut-U; Histogramme/Elpho/Statut-U; Histogramme/Elpho/Urine; --; --
+Dispositions ; Laboratoire à domicile ; Histo/Elpho/Statut-U ; Histogramme/Elpho/Statut-U ; Histogramme/Elpho/Urine ; Urine collectée sur 24h pour la clairance de la créatinine ; Urine collectée sur 24h pour la clairance de la créatinine
+Dispositions ; Laboratoire maison ; Valeurs spéciales de laboratoire ; Valeurs spéciales de laboratoire chez nous ; Valeurs spéciales de laboratoire ; ;
+Dispositions ; Laboratoire de la maison ; Valeurs de laboratoire spéciales chez nous ; Valeurs de laboratoire spéciales ; Valeurs de laboratoire spéciales ; CRP ; CRP
+Dispositions ; Laboratoire de Maison ; Valeurs de laboratoire spéciales chez nous ; Valeurs de laboratoire spéciales ; Valeurs de laboratoire spéciales ; PCT ; PCT
+Dispositions ; Laboratoire maison ; Valeurs de laboratoire spéciales chez nous ; Valeurs de laboratoire spéciales ; Valeurs de laboratoire spéciales ; Petit hématogramme ; Petit hématogramme
+Dispositions ; Laboratoire à domicile ; Valeurs de laboratoire spécifiques chez nous ; Valeurs de laboratoire spécifiques ; Valeurs de laboratoire spécifiques ; HbA1c ; HbA1c
+Des dispositions ; Laboratoire de la maison ; Valeurs de laboratoire spéciales chez nous à la maison ; Valeurs de laboratoire spéciales ; Valeurs de laboratoire spéciales ; --- ; ---
+Dispositions ;Laboratoire maison ;Valeurs de laboratoire spéciales chez nous ;Valeurs de laboratoire spéciales ;Valeurs de laboratoire spéciales ;Digitoxine ;Digitoxine
+Dispositions ; Laboratoire à domicile ; Valeurs de laboratoire spéciales chez nous ; Valeurs de laboratoire spéciales ; Valeurs de laboratoire spéciales ; Digoxine ; Digoxine
+Dispositions ; Laboratoire à domicile ; Valeurs de laboratoire spéciales chez nous ; Valeurs de laboratoire spéciales ; Valeurs de laboratoire spéciales ; FT3 + FT4 ; FT3 + FT4
+Dispositions ; Laboratoire à domicile ; Valeurs de laboratoire spécifiques chez nous ; Valeurs de laboratoire spécifiques ; Valeurs de laboratoire spécifiques ; proBNP ; proBNP
+Dispositions ; Laboratoire maison ; Valeurs de laboratoire spéciales chez nous ; Valeurs de laboratoire spéciales ; Valeurs de laboratoire spéciales ; �-HCG ; �-HCG
+Dispositions ; Laboratoire à domicile ; Valeurs de laboratoire spéciales chez nous ; Valeurs de laboratoire spéciales ; Valeurs de laboratoire spéciales ; TSH après TRH ; TSH après TRH
+Arrangements ; Laboratoire à domicile ; Valeurs de laboratoire spéciales chez nous ; Valeurs de laboratoire spéciales ; Valeurs de laboratoire spéciales ; TSH-basale ; TSH-basale
+Dispositions ; Laboratoire à domicile ; Valeurs de laboratoire spécifiques chez nous ; Valeurs de laboratoire spécifiques ; Valeurs de laboratoire spécifiques ; T-Protéine ; T-Protéine
+Dispositions ; Laboratoire à domicile ; Valeurs spéciales de laboratoire chez nous ; Valeurs spéciales de laboratoire ; Valeurs spéciales de laboratoire ; Albumine ; Albumine
+Dispositions ; Laboratoire interne ; Valeurs de laboratoire spéciales chez nous ; Valeurs de laboratoire spéciales ; Valeurs de laboratoire spéciales ; Vitamine B12 + Acide folique ; Vitamine B12 + Acide folique
+Dispositions ;Laboratoire à domicile ;Valeurs de laboratoire spéciales chez nous ;Valeurs de laboratoire spéciales ;Valeurs de laboratoire spéciales ;Fer ;Fer
+Dispositions ; Laboratoire à domicile ; Valeurs de laboratoire spéciales chez nous ; Valeurs de laboratoire spéciales ; Valeurs de laboratoire spéciales ; Ferritine ; Ferritine
+Dispositions ; Laboratoire à domicile ; Valeurs de laboratoire spéciales chez nous ; Valeurs de laboratoire spéciales ; Valeurs de laboratoire spéciales ; Transferrine ; Transferrine
+Dispositions ; Laboratoire maison ; Valeurs spéciales de laboratoire chez nous ; Valeurs spéciales de laboratoire ; Valeurs spéciales de laboratoire ; Saturation en transferrine ; Saturation en transferrine
+Dispositions ; Laboratoire à domicile ; Valeurs de laboratoire spéciales chez nous ; Valeurs de laboratoire spéciales ; Valeurs de laboratoire spéciales ; Calcium total dans le sérum ; Calcium total dans le sérum
+Dispositions ; Laboratoire interne ; Valeurs de laboratoire spécifiques chez nous ; Valeurs de laboratoire spécifiques ; Valeurs de laboratoire spécifiques ; Phosphate ; Phosphate
+Dispositions ;Laboratoire maison ;Valeurs de laboratoire spéciales chez nous ;Valeurs de laboratoire spéciales ;Valeurs de laboratoire spéciales ;--- ;---
+Dispositions ; Laboratoire à domicile ; Valeurs de laboratoire spéciales chez nous ; Valeurs de laboratoire spéciales ; Valeurs de laboratoire spéciales ; CK + CK MB ; CK + CK MB
+Dispositions ; Laboratoire à domicile ; Valeurs de laboratoire spéciales dans notre maison ; Valeurs de laboratoire spéciales ; Valeurs de laboratoire spéciales ; Troponine T ; Troponine T
+Dispositions ; Laboratoire à domicile ; Valeurs spécifiques de laboratoire chez nous ; Valeurs spécifiques de laboratoire ; Valeurs spécifiques de laboratoire ; --- ; ---
+Arrangements ;Laboratoire maison ;Valeurs de laboratoire spéciales chez nous ;Valeurs de laboratoire spéciales ;Valeurs de laboratoire spéciales ;anti HAV ;anti HAV
+Dispositions ; Laboratoire à domicile ; Valeurs de laboratoire spéciales chez nous ; Valeurs de laboratoire spéciales ; Valeurs de laboratoire spéciales ; anti HBc ; anti HBc
+Dispositions ; Laboratoire à domicile ; Valeurs de laboratoire spéciales chez nous ; Valeurs de laboratoire spéciales ; Valeurs de laboratoire spéciales ; anti HCV ; anti HCV
+Dispositions ; Laboratoire de maison ; Valeurs de laboratoire spéciales chez nous ; Valeurs de laboratoire spéciales ; Valeurs de laboratoire spéciales ; HBsAG ; HBsAG
+Dispositions ; Laboratoire de la maison ; Valeurs de laboratoire spéciales chez nous ; Valeurs de laboratoire spéciales ; Valeurs de laboratoire spéciales ; HIV-1/ HIV-2 ; HIV-1/ HIV-2
+Dispositions ; Laboratoire de maison ; Valeurs spéciales de laboratoire chez nous ; Valeurs spéciales de laboratoire ; Valeurs spéciales de laboratoire ; --- ; ---
+Dispositions ; Laboratoire à domicile ; Valeurs de laboratoires spécifiques dans notre maison ; Valeurs de laboratoires spécifiques ; Valeurs de laboratoires spécifiques ; AFP ; AFP
+Dispositions ; Laboratoire interne ; Valeurs de laboratoire spéciales chez nous ; Valeurs de laboratoire spéciales ; Valeurs de laboratoire spéciales ; CA125 ; CA125
+Dispositions ; Laboratoire de maison ; Valeurs de laboratoire spéciales chez nous ; Valeurs de laboratoire spéciales ; Valeurs de laboratoire spéciales ; CA15-3 ; CA15-3
+Dispositions ; Laboratoire interne ; Valeurs de laboratoire spéciales chez nous ; Valeurs de laboratoire spéciales ; Valeurs de laboratoire spéciales ; CA19-9 ; CA19-9
+Dispositions ;Laboratoire domestique ;Valeurs de laboratoire spéciales chez nous ;Valeurs de laboratoire spéciales ;Valeurs de laboratoire spéciales ;CEA ;CEA
+Dispositions ; Laboratoire de maison ; Valeurs de laboratoire spéciales chez nous ; Valeurs de laboratoire spéciales ; Valeurs de laboratoire spéciales ; PSA ; PSA
+Dispositions ; Laboratoire de maison ; Valeurs de laboratoire spécifiques chez nous ; Valeurs de laboratoire spécifiques ; Valeurs de laboratoire spécifiques ;S100 ;S100
+Dispositions ; Laboratoire interne ; Valeurs de laboratoire spéciales chez nous ; Valeurs de laboratoire spéciales ; Valeurs de laboratoire spéciales ; -- ; --
+Arrangements ;Laboratoire maison ;Valeurs de laboratoire spéciales chez nous ;Valeurs de laboratoire spéciales ;Valeurs de laboratoire spéciales ;GOT ;GOT
+Arrangements ; Laboratoire maison ; Valeurs de laboratoire spéciales chez nous ; Valeurs de laboratoire spéciales ; Valeurs de laboratoire spéciales ; GPT ; GPT
+Dispositions ; Laboratoire interne ; Valeurs de laboratoire spéciales chez nous ; Valeurs de laboratoire spéciales ; Valeurs de laboratoire spéciales ; CHE ; CHE
+Dispositions ; Laboratoire maison ; Valeurs de laboratoire spéciales chez nous ; Valeurs de laboratoire spéciales ; Valeurs de laboratoire spéciales ; yGT ; yGT
+Dispositions ;Laboratoire à domicile ;Valeurs de laboratoire spéciales chez nous ;Valeurs de laboratoire spéciales ;Valeurs de laboratoire spéciales ;AP ;AP
+Dispositions ; Laboratoire maison ; Valeurs de laboratoire spéciales chez nous à la maison ; Valeurs de laboratoire spéciales ; Valeurs de laboratoire spéciales ; LDH ; LDH
+Dispositions ; Laboratoire à domicile ; Valeurs de laboratoire spéciales dans notre maison ; Valeurs de laboratoire spéciales ; Valeurs de laboratoire spéciales ; Bilirubine totale ; Bilirubine totale
+Dispositions ; Laboratoire de maison ; Valeurs de laboratoire spéciales dans notre maison ; Valeurs de laboratoire spéciales ; Valeurs de laboratoire spéciales ; Bilirubine directe ; Bilirubine directe

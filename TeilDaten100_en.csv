@@ -1,0 +1,106 @@
+Cattext_name                ;Dialogfenster                                    ;Parameter                                                     ;Oberbegriff                                                   ;Bezeichnung                                                                                  ;Vorlage_txt                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ;Text_pfad
+Vital signs monitoring; MDD_SaO2; SpO2 / Respiratory rate; SpO2 - Monitoring; ;
+Vital Signs Monitoring; MDD_AF; SpO2 / Respiratory Rate; Respiratory Rate; ;
+Vital Signs; Blood Pressure / Heart Rate; MDD_HF; Blood Pressure / Heart Rate; Heart Rate; ;
+Vital Signs; Blood Pressure / Heart Rate; Blood Pressure / Heart Rate; MDD_HF; Heart Rate; RD Initial Diagnosis; RD Initial Diagnosis
+Vital signs; Blood pressure / Heart rate; MDD_PF; Blood pressure / Heart rate; Pulse rate of SpO2; ;
+Vital signs; Blood Pressure / Heart Rate; MDD_IBP-syst; Blood Pressure / Heart Rate; Sys art Pressure; ;
+Vital Signs; Blood Pressure / Heart Rate; MDD_IBP; Blood Pressure / Heart Rate; with art Pressure; ;
+Vital signs; Blood pressure / Heart rate; MDD_IBP-mean; Blood pressure / Heart rate; with type pressure; ;
+Vital Signs; Blood Pressure / Heart Rate; MDD_IBP-diast; Blood Pressure / Heart Rate; Dia art Pressure;;
+Vital signs; Blood Pressure / Heart Rate; MDD_NBP-syst; Blood Pressure / Heart Rate; Sys noninv Pressure; ;
+Vital signs; Blood pressure / Heart rate; Blood pressure / Heart rate; MDD_NBP-syst; Sys non-invasive pressure; Initial emergency diagnosis; Initial emergency diagnosis
+Vital signs; Blood pressure / Heart rate; MDD_NBP; Blood pressure / Heart rate; With non-invasive pressure; ;
+Vital signs; Blood pressure / Heart rate; MDD_NBP-mean; Blood pressure / Heart rate; With noninvasive pressure; ;
+Vital signs; Blood pressure / Heart rate; MDD_NBP-diast; Blood pressure / Heart rate; Dia noninv Pressure; ;
+Vital Signs; Blood Pressure / Heart Rate; Blood Pressure / Heart Rate; MDD_NBP-diast; Noninvasive Diastolic Pressure; First Diagnosis RD; First Diagnosis RD
+Vital parameters; Pulmonary arterial pressure; MDD_PAP-syst; Pulmonary arterial pressure; Sys PAP pressure;;
+Vital signs; Pulmonary Arterial Pressure; MDD_PAP; Pulmonary arterial pressure; With PAP pressure;;
+Vital signs; Pulmonary arterial pressure; MDD_PAP-mean; pulmonary arterial pressure; with PAP pressure;;
+Vital signs; Pulmonary arterial pressure; MDD_PAP-diast; pulmonary arterial pressure; Dia PAP pressure; ;
+Vital signs monitoring; spontaneous breathing rate; SpO2 / respiratory rate; spontaneous breathing rate;
+Vital signs monitoring; MDD_SAO2_2; SaO2 - Diagnostics; SpO2 - Diagnostics; ;
+Vital signs monitoring; MDD_Temp; Temperature; Temperature; ;
+Vital signs monitoring; Temperature; MDD_Temp; Temperature; Ear measurement; Ear measurement
+Vital signs monitoring; temperature; MDD_Temp; temperature; rectal measurement; rectal measurement
+Vital signs monitoring; Temperature; MDD_Temp; Temperature; Sublingual measurement; Sublingual measurement
+Vital signs monitoring; Temperature; MDD_Temp; Temperature; Axillary measurement; Axillary measurement
+Vital signs monitoring; Temperature; MDD_Temp; Temperature; ---; ---
+Vital signs monitoring; Temperature; MDD_Temp; Temperature; RD Initial diagnosis; RD Initial diagnosis
+Vital signs monitoring; Blood; Blood temperature; Blood; ;
+Vital signs monitoring; MDD_Temp1; Additional temperature monitoring; Additional temperature monitoring; ;
+Vital signs; Hemodynamics; MDD_CVP; CVP; CVP (mmHg); ;
+Vital signs; Hemodynamics; CVP (Central venous pressure); MDD_CVP; CVP (mmHg); Measurement point: Internal jugular vein; Measurement point: Internal jugular vein.
+Vital signs; Hemodynamics; Central venous pressure (CVP); MDD_CVP; CVP (mmHg); Measurement point: Groin; Measurement point: Groin
+Vital signs; Hemodynamics; CVP; MDD_CVP; CVP (mmHg); Measurement point Subclavia; Measurement point Subclavia
+Vital signs; Hemodynamics; CVP; MDD_CVP; CVP (mmHg); without ventilation; without ventilation
+Vital signs; Hemodynamics; CVP; MDD_CVP; CVP (mmHg); with ventilation PEEP........ ; with ventilation PEEP........
+"Vital Signs; Hemodynamics; CVP; MDD_CVP; CVP (mmHg); Curve inconspicuous; Curve inconspicuous. 
+
+(Note: ZVD refers to ""Zentraler Venendruck"" in German, which is ""Central Venous Pressure (CVP)"" in English. MDD refers to ""Medical Device Directive"", a European Commission guideline for medical devices.)"
+Vital signs; Hemodynamics; CVP; MDD_CVP; CVP (mmHg); A-wave present; A-wave present
+Vital signs; Hemodynamics; CVP; MDD_CVP; CVP (mmHg); V- wave present; V- wave present
+Vital signs; Hemodynamics PICCO; MDD_C.I.; CI (3-5); CI [l/min/m2] Cardiac Index; ;
+Vital signs monitoring; MDD_SQI; SQI; SQI; ;
+Vital Signs; Hemodynamics PICCO; MDD_SV; SV; SV [ml] Stroke Volume; ;
+Vital signs monitoring; MDD_Tblood; Temperature; Blood Temperature (PICCO); ;
+Vital signs monitoring; MDD_BIS; BIS; BIS; ;
+Vital Signs Monitoring; MDD_Temp2; Temperature Additional Monitoring 2; Temperature Additional Monitoring 2; ;
+Vital signs; Hemodynamics PICCO; MDD_SVV; SVV; SVV [%] Stroke volume variation; ;
+Vital signs; Hemodynamics PICCO; MDD_SVRI; SVRI (1700-2400); SVRI;;
+Vital signs; Hemodynamics PICCO; MDD_EVLWI; EVLWI (3-7); EVLWI [ml/kg] Extravascular Lung Water Index; ;
+Vital signs; Hemodynamics PICCO; MDD_ITBVI; ITBVI (850-1000); ITBVI [ml/m2] intrathoracic blood volume index;;
+Vital signs; Hemodynamics PICCO; MDD_GEDVI; GEDVI (680-800); GEDVI [ml/m2] Global end-diastolic volume index; ;
+Vital Signs; Hemodynamics PICCO; MDD_HI; HI (3-5); HI;;
+"This text is a mix of English and German words and abbreviations related to medical terms. However, they are disjointed and do not form a coherent sentence in neither of the languages. It could be interpreted as follows:
+
+""Vital signs; hemodynamics PICCO; MDD_KOF; KOF; KOF;"" 
+
+Please note ""PICCO"" and ""MDD_KOF"" are used in the medical field but without the context, their exact meaning is unclear. The ""KOF"" abbreviation also does not have a clear meaning without context. It might be helpful if you could provide more context related to these terms."
+Vital signs; Blood pressure / Heart rate; MDD_ICP; ICP (Intracranial pressure); ICP (Intracranial pressure); ;
+Vital signs; NIRS; rSO2 frontal right; NIRS; rSO2 frontal right; ;
+Vital signs; NIRS; rSO2 frontal left; NIRS; rSO2 frontal left; ;
+Vital signs ;NIRS ;Mirus (MAC) ;NIRS ;Mirus (MAC) ; ;
+Vital signs ;Test1_old ;TestPara1 ;Test1_old ;TestPara1 ; ;
+Vital signs; Blood Pressure / Heart Rate_old; Intraabdominal Pressure; Intraabdominal Pressure_old; Intraabdominal Pressure; ;
+Vital signs; Comment; Comment_3; Comment; Comment; ;
+Vital Signs; Hemodynamics PICCO_old; MDD_CFI; CFI_old; CFI [1/min]; ;
+Vital signs; Anesthetic trend; Stage/Index; Anesthetic trend; Stage/Index; ;
+Vital signs; Narcotrend; Narcotrend; Stage /Index; Stage /Index; A; A
+Vital signs; Narcotrend; Narcotrend; Stage/Index; Stage/Index; B0; B0
+Vital signs; Narkotrend; Narkotrend; Stage/Index; Stage/Index; B1; B1
+Vital signs; Narcotrend; Narcotrend; Stage/Index; Stage/Index; B2; B2
+Vital Signs; Narcotrend; Narcotrend; Stage/Index; Stage/Index; C0; C0
+Vital signs; Narcotrend; Narcotrend; Stage/Index; Stage/Index; C1; C1
+Vital signs; Narcotrend; Narcotrend; Stage/Index; Stage/Index; C2; C2
+Vital Signs; Narcotrend; Narcotrend; Stage/Index; Stage/Index; D0; D0
+Vital signs; Narcotrend; Narcotrend; Stage/Index; Stage/Index; D1; D1
+Vital signs; Narcotrend; Narcotrend; Stage / Index; Stage / Index; D2; D2
+Vital Signs; Narcotrend; Narcotrend; Stage/Index; Stage/Index; E0; E0
+Vital Signs; Narcotrend; Narcotrend; Stage/Index; Stage/Index; E1; E1
+Vital signs; Narcotrend; Narcotrend; Stage/Index; Stage/Index; E2; E2
+Vital signs; Narcotrend; Narcotrend; Stage/Index; Stage/Index; F0; F0
+Vital signs; Narkotrend; Narkotrend; Stage/Index; Stage/Index; F1; F1
+Vital signs; Narcotrend; Narcotrend; Stage /Index; Stage /Index; Comment; Comment
+Vital signs; Narcotrend; EEG-Type; Narcotrend; EEG-Type ; ;
+Vital signs; Narcotrend; Narcotrend; EEG-type; EEG-type; 1-channel; 1-channel
+Vital signs; Narcotrend; Narcotrend; EEG type; EEG type; 2-channel; 2-channel
+Vital Signs ;Narcotrend ;STI (ETP) ;Narcotrend ;STI (ETP) ; ;
+Vital signs; Narkotrend_old; A_1; Narkotrend_old; A; ;
+Vital signs; Anesthesia trend_old; Comment; Anesthesia trend_old; Comment; ;
+Vital signs ;Narcotrend_old ;Stage / Index ;Narcotrend_old ;Stage / Index ; ;
+Vital signs ;Narcotrend_old ;Narcotrend_old ;Stage / Index ;Stage / Index ;A ;A
+Vital Signs; Narkotrend_old; Narkotrend_old; Stage / Index; Stage / Index; B0; B0
+Vital Signs; Old Anesthesia Trend; Old Anesthesia Trend; Stage / Index; Stage / Index; B1; B1
+Vital signs; Narkotrend_old; Narkotrend_old; Stage / Index; Stage / Index; B2; B2
+Vital signs; Narkotrend_old; Narkotrend_old; Stage / Index; Stage / Index; C0; C0
+Vital signs; Narkotrend_old; Narkotrend_old; Stage / Index; Stage / Index; C1; C1
+Vital signs; Narkotrend_old; Narkotrend_old; Stage / Index; Stage / Index; C2; C2
+Vital signs; Anesthetic trend_old; Anesthetic trend_old; Stage / Index; Stage / Index; D0; D0
+Vital signs; Anesthetic Trend_Old; Anesthetic Trend_Old; Stage / Index; Stage / Index; D1; D1
+Vital values; Narkotrend_old; Narkotrend_old; Stage / Index; Stage / Index; D2; D2
+Vital signs; Narkotrend_old; Narkotrend_old; Stage / Index; Stage / Index; E0; E0
+Vital signs; Narkotrend_old; Narkotrend_old; Stage / Index; Stage / Index; E1; E1
+Vital Signs; Narkotrend_old; Narkotrend_old; Stage / Index; Stage / Index; E2; E2
+Vital signs; Narkotrend_old; Narkotrend_old; Stage / Index; Stage / Index; F0; F0
+Vital signs ;Narcotrend_old ;Narcotrend_old ;Stage / Index ;Stage / Index ;F1 ;F1

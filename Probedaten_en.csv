@@ -1,0 +1,12 @@
+Cattext_name;Dialogfenster;Parameter;Oberbegriff;Bezeichnung;Vorlage_txt;Text_pfad
+Vital signs; monitoring; MDD_SaO2; SpO2 / Respiratory rate; SpO2 - monitoring; ;
+Vital Signs; Monitoring; MDD_AF; SpO2 / Respiratory Rate; Respiratory Rate; ;
+Vital signs; Blood pressure / Heart rate; MDD_HF; Blood pressure / Heart rate; Heart rate; ;
+Vital Signs; Blood Pressure / Heart Rate; Blood Pressure / Heart Rate; MDD_HF; Heart Rate; RD Initial Diagnosis; RD Initial Diagnosis
+Vital signs; Blood pressure / Heart rate; MDD_PF; Blood pressure / Heart rate; Pulse rate from SpO2; ;
+Vital signs; Blood pressure / Heart rate; MDD_IBP-syst; Blood pressure / Heart rate; Sys art Pressure; ;
+Vital signs; Blood pressure / Heart rate; MDD_IBP; Blood pressure / Heart rate; with art Pressure; ;
+Vital signs; Blood pressure / Heart rate; MDD_IBP-mean; Blood pressure / Heart rate; with type pressure; ;
+Vital signs; Blood pressure / Heart rate; MDD_IBP-diast; Blood pressure / Heart rate; Dia art pressure; ;
+Vital signs; Blood pressure / Heart rate; MDD_NBP-syst; Blood pressure / Heart rate; Non-invasive systolic pressure;;
+Vital Signs; Blood Pressure / Heart Rate; Blood Pressure / Heart Rate; MDD_NBP-syst; Sys non-invasive Pressure; Initial Diagnosis; Initial Diagnosis

@@ -1,0 +1,212 @@
+Cattext_name                ;Dialogfenster                                    ;Parameter                                                     ;Oberbegriff                                                   ;Bezeichnung                                                                                  ;Vorlage_txt                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ;Text_pfad
+Vital signs monitoring; MDD_SaO2; SpO2 / Breathing rate; SpO2 - monitoring; ;
+Vital signs monitoring; MDD_AF; SpO2 / Breathing rate; Breathing rate; ;
+Vital signs; Blood pressure / Heart rate; MDD_HF; Blood pressure / Heart rate; Heart rate; ;
+Vital Signs; Blood Pressure / Heart Rate; Blood Pressure / Heart Rate; MDD_HF; Heart Rate; Initial Diagnosis RD; Initial Diagnosis RD
+Vital signs; Blood pressure / Heart rate; MDD_PF; Blood pressure / Heart rate; Pulse rate of SpO2; ;
+Vital signs; Blood pressure / Heart rate; MDD_IBP-syst; Blood pressure / Heart rate; Systolic arterial pressure; ;
+Vital signs; Blood pressure / Heart rate; MDD_IBP; Blood pressure / Heart rate; with type Pressure; ;
+Vital signs; Blood pressure / Heart rate; MDD_IBP-mean; Blood pressure / Heart rate; with type pressure; ;
+Vital signs; Blood pressure / Heart rate; MDD_IBP-diast; Blood pressure / Heart rate; Diastolic arterial pressure; ;
+Vital signs ;Blood Pressure / Heart Rate ;MDD_NBP-syst ;Blood Pressure / Heart Rate ;Noninvasive Sys Pressure ; ;
+Vital signs; Blood pressure / Heart rate; Blood pressure / Heart rate; MDD_NBP-syst; Noninv systolic pressure; RD initial diagnosis; RD initial diagnosis.
+Vital signs; Blood pressure / Heart rate; MDD_NBP; Blood pressure / Heart rate; With non-invasive pressure;;
+Vital values; Blood pressure / Heart rate; MDD_NBP-mean; Blood Pressure / Heart rate; With noninvasive Pressure; ;
+Vital Signs; Blood Pressure / Heart Rate; MDD_NBP-diast; Blood Pressure / Heart Rate; Dia noninv Pressure; ;
+Vital signs; Blood pressure / Heart rate; Blood pressure / Heart rate; MDD_NBP-diast; Noninvasive Diastolic pressure; Initial diagnosis of RD; Initial diagnosis of RD.
+Vital Signs; Pulmonary Arterial Pressure; MDD_PAP-syst; Pulmonary Arterial Pressure; Sys PAP Pressure; ;
+Vital signs; Pulmonary Arterial Pressure; MDD_PAP; Pulmonary Arterial Pressure; With PAP pressure; ;
+Vital Signs; Pulmonary Arterial Pressure; MDD_PAP-mean; Pulmonary Arterial Pressure; With PAP Pressure; ;
+Vital signs; Pulmonary arterial pressure; MDD_PAP-diast; pulmonary arterial pressure; Dia PAP pressure; ;
+Vital signs monitoring; spontaneous breathing rate; SpO2 / breathing rate; spontaneous breathing rate; ;
+Vital signs monitoring; MDD_SAO2_2; SaO2 - Diagnostics; SpO2 - Diagnostics; ;
+Vital signs monitoring; MDD_Temp; Temperature; Temperature; ;
+Vital signs monitoring; Temperature; MDD_Temp; Temperature; Ear measurement; Ear measurement.
+Vital signs monitoring; Temperature; MDD_Temp; Temperature; Rectal measurement; Rectal measurement.
+Vital signs monitoring; Temperature; MDD_Temp; Temperature; Sublingual measurement; Sublingual measurement
+Vital signs monitoring; Temperature; MDD_Temp; Temperature; Axillary measurement; Axillary measurement
+Vital signs monitoring; Temperature; MDD_Temp; Temperature; ---; ---
+Vital signs monitoring; Temperature; MDD_Temp; Temperature; Initial RD diagnosis; Initial RD diagnosis
+Vital signs monitoring; TBlut; Blood temperature; TBlut; ;
+Vital Signs Monitoring; MDD_Temp1; Additional Temperature Monitoring; Additional Temperature Monitoring; ;
+Vital signs; Hemodynamics; MDD_CVP; CVP; CVP (mmHg); ;
+Vital Signs; Hemodynamics; CVP; MDD_CVP; CVP (mmHg); Measurement point: Int. Jugular Vein; Measurement point: Int. Jugular Vein.
+Vital signs; Hemodynamics; CVP; MDD_CVP; CVP (mmHg); Measurement point: groin; Measurement point: groin
+Vital signs; Hemodynamics; CVP; MDD_CVP; CVP (mmHg); Measurement point Subclavia; Measurement point Subclavia
+Vital signs; Hemodynamics; CVP; MDD_CVP; CVP (mmHg); without ventilation; without ventilation.
+Vital signs ;Hemodynamics ;CVP ;MDD_CVP ;CVP (mmHg) ;With ventilation PEEP........ ;With ventilation PEEP........
+Vital signs; Hemodynamics; CVP; MDD_CVP; CVP (mmHg); Curve inconspicuous; Curve inconspicuous
+Vital signs; Hemodynamics; CVP; MDD_CVP; CVP (mmHg); A- wave present; A- wave present
+Vital signs; Hemodynamics; CVP; MDD_CVP; CVP (mmHg); V- wave present; V- wave present
+Vital Signs; Hemodynamics PICCO; MDD_C.I.; CI (3-5); CI [l/min/m2] Cardiac Index;;
+Vital signs monitoring; MDD_SQI; SQI; SQI; ;
+Vital signs; Hemodynamics PICCO; MDD_SV; SV; SV [ml] Stroke Volume; ;
+Vital signs monitoring; MDD_Tblood; Temperature; Blood Temperature (PICCO); ;
+Vital signs monitoring; MDD_BIS; BIS; BIS; ;
+Vital signs monitoring; MDD_Temp2; Additional temperature monitoring 2; Additional temperature monitoring 2; ;
+Vital signs; Hemodynamics PICCO; MDD_SVV; SVV; SVV [%] Stroke Volume Variation; ;
+Vital signs; Hemodynamics PICCO; MDD_SVRI; SVRI (1700-2400); SVRI; ;
+Vital signs; Hemodynamics PICCO; MDD_EVLWI; EVLWI (3-7); EVLWI [ml/kg] Extravascular lung water index;;
+Vital signs; Hemodynamics PICCO; MDD_ITBVI; ITBVI (850-1000); ITBVI [ml/m2] intrathoracic blood volume index;
+Vital signs; Hemodynamics PICCO; MDD_GEDVI; GEDVI (680-800); GEDVI [ml/m2] Global end-diastolic volume index;;
+"The text contains specific terms that appear to be related to medical terminology. However, it's unclear and appears to be fragmented or improperly encoded. Proper translation would be:
+
+Vital Signs; Hemodynamics PICCO; MDD_HI; HI (3-5); HI; ; 
+
+Please provide a clear and complete sentence for a more accurate translation."
+"This set of terms seems to be in German, but due to their technical and disjointed nature, it's difficult to provide an accurate translation without context. However, some possible translations could be:
+
+Vitalwerte - Vital signs
+Hämodynamik - Hemodynamics
+PICCO - PICCO (possibly a specialized medical technology or abbreviation, remains same)
+MDD_KOF - MDD_KOF (likely a unique code or abbreviation, remains same)
+KOF - KOF (again, likely a unique code or abbreviation, remains same) 
+
+Please provide a context for a more accurate translation."
+Vital Signs; Blood Pressure/Heart Rate; MDD_ICP; ICP (Intracranial Pressure); ICP (Intracranial Pressure); ;
+Vital signs; NIRS; rSO2 frontal right; NIRS; rSO2 frontal right; ;
+Vital signs; NIRS; rSO2 frontal left; NIRS; rSO2 frontal left; ;
+Vital signs; NIRS; Mirus (MAC); NIRS; Mirus (MAC); ;
+Vital signs ;Test1_old ;TestPara1 ;Test1_old ;TestPara1 ; ;
+Vital signs; Blood Pressure / Heart Rate_old; Intraabdominal Pressure; Intraabdominal Pressure_old; Intraabdominal Pressure; ;
+Vital signs; Comment; Comment_3; Comment; Comment; ;
+Vital signs; Hemodynamics PICCO_old; MDD_CFI; CFI_old; CFI [1/min]; ;
+Vital signs; Narcotrend; Stage / Index; Narcotrend; Stage / Index; ;
+Vital signs; Narcotrend; Narcotrend; Stadium /Index; Stadium /Index; A; A
+Vital signs; Narcotrend; Narcotrend; Stage/Index; Stage/Index; B0; B0
+Vital signs; Narcotrend; Narcotrend; Stage / Index; Stage / Index; B1; B1
+Vital signs; Narcotrend; Narcotrend; Stage/Index; Stage/Index; B2; B2
+Vital signs; Narcotrend; Narcotrend; Stage/Index; Stage/Index; C0; C0
+Vital signs; Narcotrend; Narcotrend; Stage/Index; Stage/Index; C1; C1
+Vital values; Narcotrend; Narcotrend; Stage/Index; Stage/Index; C2; C2
+Vital signs; Narcotrend; Narcotrend; Stage/Index; Stage/Index; D0; D0
+Vital signs; Narcotrend; Narcotrend; Stage / Index; Stage / Index; D1; D1
+Vital Signs; Narcotrend; Narcotrend; Stage/Index; Stage/Index; D2; D2
+Vital Signs ;Narcotrend ;Narcotrend ;Stage /Index ;Stage /Index ;E0 ;E0
+Vital signs; Narcotrend; Narcotrend; Stage / Index; Stage / Index; E1; E1
+Vital signs; Narcotrend; Narcotrend; Stage /Index; Stage /Index; E2; E2
+Vital Signs; Narcotrend; Narcotrend; Stage/Index; Stage/Index; F0; F0
+Vital signs; Narcotrend; Narcotrend; Stadium/Index; Stadium/Index; F1; F1
+Vital Signs; Narcotrend; Narcotrend; Stage/Index; Stage/Index; Comment; Comment
+Vital signs; Narcotrend; EEG-type; Narcotrend; EEG-type; ;
+Vital signs; Narcotrend; Narcotrend; EEG Type; EEG Type; 1-Channel; 1-Channel
+Vital signs; Narcotrend; Narcotrend; EEG-Type; EEG-Type; 2-Channel; 2-Channel.
+Vital parameters; Narcotrend; STI (ETP); Narcotrend; STI (ETP); ;
+Vital signs; Narkotrend_old; A_1; Narkotrend_old; A; ;
+Vital signs; Old anesthesia trend; Comment; Old anesthesia trend; Comment; ;
+Vital signs; Narkotrend_old; Stage / Index; Narkotrend_old; Stage / Index; ;
+Vital signs ;Narkotrend_old ;Narkotrend_old ;Stage / Index ;Stage / Index ;A ;A
+Vital signs; Narkotrend_old; Narkotrend_old; Stage / Index; Stage / Index; B0; B0
+Vital signs; Narkotrend_old; Narkotrend_old; Stage / Index; Stage / Index; B1; B1.
+Vital Signs; Narcotrend_old; Narcotrend_old; Stage / Index; Stage / Index; B2; B2
+Vital signs; Narkotrend_old; Narkotrend_old; Stage / Index; Stage / Index; C0; C0
+Vital signs; Narkotrend_old; Narkotrend_old; Stage / Index; Stage / Index; C1; C1
+Vital signs; Narkotrend_old; Narkotrend_old; Stage / Index; Stage / Index; C2; C2
+Vital signs ;Narcotrend_old ;Narcotrend_old ;Stage / Index ;Stage / Index ;D0 ;D0
+Vital signs; Narkotrend_old; Narkotrend_old; Stage / Index; Stage / Index; D1; D1
+Vital signs ;Narkotrend_old ;Narkotrend_old ;Stage/Index ;Stage/Index ;D2 ;D2
+Vital signs; Narkotrend_old; Narkotrend_old; Stage / Index; Stage / Index; E0; E0
+Vital signs; Narkotrend_old; Narkotrend_old; Stage / Index; Stage / Index; E1; E1
+Vital signs; Narkotrend_old; Narkotrend_old; Stage / Index; Stage / Index; E2; E2
+Vital signs; Narcotrend_old; Narcotrend_old; Stage / Index; Stage / Index; F0; F0
+Vital signs; Narkotrend_old; Narkotrend_old; Stage / Index; Stage / Index; F1; F1
+Vital signs; Narkotrend_old; ILA Flow rate; Narkotrend_old; ILA Flow rate; ;
+Vital signs; ILA Novalung; ml/min; ILA Novalung; ml/min; ;
+Vital signs; Intra-abdominal pressure; Intra-abdominal pressure_1; Intra-abdominal pressure; Intra-abdominal pressure; ;
+Vital Signs; MIRUS (Sevorane Vol%)_old; Sevo Vol%; MIRUS (Sevorane Vol%)_old; Sevo Vol%; ;
+Vital signs; MIRUS (MAC); MAC; MIRUS (MAC); MAC; ;
+Arrangements; Blood sugar; BS; Blood sugar; BS; ;
+Arrangements; Blood Sugar; Blood Sugar; BZ; BZ; determined on ward; determined on ward
+Arrangements; Blood sugar; Blood sugar; BS; BS; determined in the lab; determined in the lab
+Arrangements; Home Laboratory; Blood Gas Analysis; BGA; Blood Gas Analysis;;
+Arrangements; Home Laboratory; BGA; Blood Gas Analysis; Blood Gas Analysis; Z (Central Vein),"This text appears to be mixed and not in a particular language. It seems to include fragments of German and medical terminology, such as ""großes Profil"" that translates to ""large profile"", and ""Zentralvenös"" which could be translated to ""central venous"". However, the full context is unclear and can't be translated properly.",(big profile)
+Arrangements; Home laboratory; BGA; Blood gas analysis; Blood gas analysis; CV (Central Vein),Ventilation); CV (Central Vein),Ventilation
+Arrangements; House Laboratory; BGA; Blood Gas Analysis; Blood Gas Analysis; ZB+ (Central Veins),Ventilation plus); ZB+ (Central Vein’s,Ventilation plus)
+Arrangements; Home Laboratory; BGA; Blood Gas Analysis; Blood Gas Analysis; A (Arterial),large profile); A (Arterial),"This text seems to be in German, but it appears to be incorrectly written. 'gro�es Profil' doesn't directly translate to English as it seems to be missing letters which caused errors in the sentence. A correct approximation could be 'großes Profil' which translates to 'large profile' in English."
+Arrangements; Home lab; BGA; Blood gas analysis; Blood gas analysis; AB (Arterial),Ventilation); AB (Arterial),(Ventilation)
+Arrangements; Home laboratory; BGA; Blood gas analysis; Blood gas analysis; AB+ (Arterial),Ventilation plus); AB+ (Arterial),Ventilation plus)
+Arrangements; Home Lab; BGA; Blood Gas Analysis; Blood Gas Analysis; V (Venous),"The text seems to be a combination of various special characters, abbreviations or languages that do not form a coherent sentence or phrase in any language. Please provide a correct and clear text to translate.",large profile)
+Arrangements; Home Lab; BGA; Blood Gas Analysis; Blood Gas Analysis; VB (Venous),"Sorry, this text appears to be a mix of different languages and lacks context, hence it is impossible to translate accurately. Can you please provide more details and complete coherent sentences?",Ventilation)
+Arrangements; Home laboratory; BGA; Blood gas analysis; Blood gas analysis; VB+ (Venous),Ventilation plus); VB+ (Venous,Ventilation plus)
+Arrangements; Home laboratory; BGA; Blood gas analysis; Blood gas analysis; K (Capillary),The input text is not understandable or in a recognizable language to translate into English. It appears to contain typographical errors. Please provide a correct version.,(big profile)
+Arrangements; Home laboratory; BGA; Blood gas analysis; Blood gas analysis; KB (Capillary),The text provided does not seem to be in a recognizable language or properly formed context. Could you provide the correct text or more information?,(Ventilation)
+Arrangements; Home Laboratory; BGA; Blood Gas Analysis; Blood Gas Analysis; KB+ (Capillary),Ventilation plus); KB+ (Capillary,Ventilation plus)
+Arrangements; Home Laboratory; BGA; Blood Gas Analysis; Blood Gas Analysis; Z/A Central Venous + Arterial; Z/A Central Venous + Arterial
+Arrangements; Home Laboratory; BGA; Blood Gas Analysis; Blood Gas Analysis; Z/K Central Veins + Capillary; Z/K Central Veins + Capillary
+Arrangements; Home Laboratory; Coagulation; Coagulation; Coagulation; ;
+Arrangements; Home Laboratory; Coagulation; Coagulation; Coagulation; Quick; Quick
+Arrangements; Home Laboratory; Coagulation; Coagulation; Coagulation; aPTT; aPTT
+Arrangements; Home Laboratory; Coagulation; Coagulation; Coagulation; AT3; AT3
+Arrangements; Home laboratory; Coagulation; Coagulation; Coagulation; Fibrinogen; Fibrinogen
+Arrangements; Home Laboratory; Coagulation; Coagulation; Coagulation; ---; ---
+Arrangements; Home laboratory; Coagulation; Coagulation; Coagulation; anti-Xa levels; anti-Xa levels
+Arrangements; Home Laboratory; Coagulation; Coagulation; Coagulation; Thrombin Time; Thrombin Time.
+Arrangements; Home Laboratory; Coagulation; Coagulation; Coagulation; D-Dimer; D-Dimer
+Arrangements; House laboratory; Coagulation; Coagulation; Coagulation; ROTEM; ROTEM
+Arrangements; Home Laboratory; Coagulation; Coagulation; Coagulation; Fac. XIII; Fac. XIII
+Arrangements; Home Lab; Lab Profile D2/B2 Large; D2/B2 Large/Small; Lab Profile; ;
+Arrangements; Home Lab; D2/B2 Large/Small; Lab Profile D2/B2 Large; Lab Profile; D2/B2 Large; D2/B2 Large
+Arrangements; Home Lab; D2/B2 Large/Small; Lab Profile D2/B2 Large; Lab Profile; D2/B2 Small; D2/B2 Small
+Arrangements; Home lab; D2/B2 Large/Small; Lab profile D2/B2 Large; Lab profile; Dialysis D2; Dialysis D2
+Arrangements; Home Lab; Fat values; Fats; Fat values; ;
+Arrangements; Home Laboratory; Fats; Fat Values; Fat Values; Triglycerides; Triglycerides
+Arrangements ;House laboratory ;Fats ;Fat values ;Fat values ;HDL ;HDL
+Arrangements; Home laboratory; Fats; Fat values; Fat values; LDL; LDL
+Arrangements; Home laboratory; Fats; Fat values; Fat values; Cholesterol; Cholesterol
+Arrangements; House Laboratory; Individual Laboratory Parameters; Special Laboratory Values in our House; Individual Laboratory Parameters (Free text); ;
+Arrangements; Home laboratory; Histogram/Elpho/U-Status; Histo/Elpho/U-Status; Histogram/Elpho/Urine; ;
+Arrangements; Home Lab; Histo/Elpho/U-Status; Histogram/Elpho/U-Status; Histogram/Elpho/Urine; Histogram; Histogram.
+Arrangements; Home Lab; Histo/Elpho/U-Status; Histogram/Elpho/U-Status; Histogram/Elpho/Urine; for Creatinine Clearance; for Creatinine Clearance.
+Arrangements; Home Lab; Histo/Elpho/U-Status; Histogram/Elpho/U-Status; Histogram/Elpho/Urine; Electrophoresis; Electrophoresis
+Instructions; Home Laboratory; Histo/Elpho/U-Status; Histogram/Elpho/U-Status; Histogram/Elpho/Urine; for catecholamines in urine; for catecholamines in urine
+Arrangements; Home Lab; Histo/Elpho/U-Status; Histogram/Elpho/U-Status; Histogram/Elpho/Urine; U-Status; U-Status
+Arrangements; Home laboratory; Histo/Elpho/U-status; Histogram/Elpho/U-status; Histogram/Elpho/Urine; -- ; --
+Orders; Home Lab; Histo/Elpho/U-Status; Histogram/Elpho/U-Status; Histogram/Elpho/Urine; 24h Collection Urine for Creatinine Clearance; 24h Collection Urine for Creatinine Clearance
+Arrangements; Home Laboratory; Special Laboratory Values; Special Laboratory Values in our House; Special Laboratory Values; ;
+Arrangements; In-house laboratory; Special laboratory values in our house; Special laboratory values; Special laboratory values; CRP; CRP
+Arrangements; House Laboratory; Special Laboratory Values in our House; Special Laboratory Values; Special Laboratory Values; PCT; PCT
+Arrangements; Home Laboratory; Special Laboratory Values in our House; Special Laboratory Values; Special Laboratory Values; Small Blood Picture; Small Blood Picture
+Arrangements; In-house Laboratory; Special Laboratory Values at our House; Special Laboratory Values; Special Laboratory Values; HbA1c; HbA1c
+Arrangements; Home Laboratory; Special Laboratory Values in our House; Special Laboratory Values; Special Laboratory Values; ---; ---
+Arrangements; House Laboratory; Special Laboratory Values at our House; Special Laboratory Values; Special Laboratory Values; Digitoxin; Digitoxin
+Arrangements; House laboratory ; Special laboratory values at our place ; Special laboratory values ; Special laboratory values ; Digoxin ; Digoxin
+Arrangements; House laboratory; Special laboratory values in our house; Special laboratory values; Special laboratory values; FT3 + FT4; FT3 + FT4
+Arrangements; Home Laboratory; Special laboratory values in our house; Special laboratory values; Special laboratory values; proBNP; proBNP.
+Arrangements; In-house laboratory; Special laboratory values in our house; Special laboratory values; Special laboratory values; β-HCG; β-HCG
+Arrangements; Home laboratory; Special laboratory values in our house; Special laboratory values; Special laboratory values; TSH after TRH; TSH after TRH
+Arrangements; Home laboratory; Special laboratory values in our house; Special laboratory values; Special laboratory values; TSH-basal; TSH-basal
+Arrangements; House Laboratory; Special Laboratory Values in our House; Special Laboratory Values; Special Laboratory Values; T-Protein; T-Protein
+Arrangements; Home Laboratory; Special Laboratory Values in our House; Special Laboratory Values; Special Laboratory Values; Albumin; Albumin
+Arrangements; Home Laboratory; Special Lab Values in our House; Special Lab Values; Special Lab Values; Vitamin B12 + Folic Acid; Vitamin B12 + Folic Acid
+Arrangements; House lab; Special lab values at our house; Special lab values; Special lab values; Iron; Iron
+Orders; Home Laboratory; Special laboratory values in our house; Special laboratory values; Special laboratory values; Ferritin; Ferritin.
+Arrangements; Home Laboratory; Special Laboratory Values at Our House; Special Laboratory Values; Special Laboratory Values; Transferrin; Transferrin
+Arrangements; Home laboratory; Special laboratory values in our house; Special laboratory values; Special laboratory values; Transferrin saturation; Transferrin saturation.
+Arrangements; Home Laboratory; Special Laboratory Values in our House; Special Laboratory Values; Special Laboratory Values; Total Serum Calcium; Total Serum Calcium.
+Arrangements; In-house Laboratory; Special Lab Values In Our House; Special Lab Values; Special Lab Values; Phosphate; Phosphate
+Arrangements; Home Laboratory; Special Laboratory Values in Our House; Special Laboratory Values; Special Laboratory Values; ---; ---
+Arrangements; Home laboratory; Special laboratory values in our house; Special laboratory values; Special laboratory values; CK + CK MB; CK + CK MB.
+Arrangements; Home laboratory; Special laboratory values at our facility; Special laboratory values; Special laboratory values; Troponin T; Troponin T
+Arrangements; House Laboratory; Special laboratory values in our house; Special laboratory values; Special laboratory values; ---; ---
+Arrangements; Home Laboratory; Special Laboratory Values in our House; Special Laboratory Values; Special Laboratory Values; anti HAV; anti HAV
+Arrangements; Home Laboratory; Special Laboratory Values in our House; Special Laboratory Values; Special Laboratory Values; anti HBc; anti HBc
+Arrangements; Home Laboratory; Special Laboratory Values in our House; Special Laboratory Values; Special Laboratory Values; anti HCV; anti HCV
+Arrangements; House Laboratory; Special Laboratory Values at Our House; Special Laboratory Values; Special Laboratory Values; HBsAG; HBsAG
+Arrangements; Home Laboratory; Special Laboratory Values in our House; Special Laboratory Values; Special Laboratory Values; HIV-1/ HIV-2; HIV-1/ HIV-2
+Arrangements; Home Laboratory; Special laboratory values in our house; Special laboratory values; Special laboratory values; ---; ---
+Arrangements; Home Laboratory; Special Laboratory Values in our House; Special Laboratory Values; Special Laboratory Values; AFP; AFP
+Arrangements; Home Laboratory; Special Laboratory Values in our House; Special Laboratory Values; Special Laboratory Values; CA125; CA125
+Arrangements; Home Laboratory; Special Laboratory Values in our House; Special Laboratory Values; Special Laboratory Values; CA15-3; CA15-3.
+Arrangements; House Laboratory; Special laboratory values at our place; Special laboratory values; Special laboratory values; CA19-9; CA19-9
+Arrangements; Home laboratory; Special laboratory values in our house; Special laboratory values; Special laboratory values; CEA; CEA
+Arrangements; Home laboratory; Special laboratory values at our house; Special laboratory Values; Special laboratory values; PSA; PSA
+Arrangements; House lab; Special laboratory values at our house; Special laboratory values; Special laboratory values; S100; S100
+Arrangements; Home laboratory; Special laboratory values at our place; Special laboratory values; Special laboratory values; -- ; --
+Arrangements; House Laboratory; Special Laboratory Values at Our House; Special Laboratory Values; Special Laboratory Values; GOT; GOT
+Arrangements; Home Laboratory; Special Laboratory Values in our house; Special Laboratory Values; Special Laboratory Values; GPT; GPT.
+Arrangements; Home Laboratory; Special Laboratory Values at Our House; Special Laboratory Values; Special Laboratory Values; CHE; CHE.
+Arrangements; House Laboratory; Special Laboratory Values at our House; Special Laboratory Values; Special Laboratory Values; yGT; yGT
+Arrangements; Home Laboratory; Special Laboratory Values at Our House; Special Laboratory Values; Special Laboratory Values; AP; AP
+Arrangements; Home Lab; Special Lab Values at our place; Special Lab Values; Special Lab Values; LDH; LDH
+Arrangements; Home lab; Special lab values in our house; Special lab values; Special lab values; Total bilirubin; Total bilirubin
+Arrangements; Home Laboratory; Special Laboratory Values in our House; Special Laboratory Values; Special Laboratory Values; Direct Bilirubin; Direct Bilirubin.

@@ -1,0 +1,306 @@
+Cattext_name                ;Dialogfenster                                    ;Parameter                                                     ;Oberbegriff                                                   ;Bezeichnung                                                                                  ;Vorlage_txt                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ;Text_pfad
+Vital signs monitoring; MDD_SaO2; SpO2 / Respiration rate; SpO2 - monitoring; ;
+Vital signs monitoring; MDD_AF; SpO2 / Respiratory rate; Respiratory rate; ;
+Vital Signs; Blood Pressure / Heart Rate; MDD_HF; Blood Pressure / Heart Rate; Heart Rate; ;
+Vital signs; Blood pressure / Heart rate; Blood pressure / Heart rate; MDD_HF; Heart rate; RD Initial diagnosis; RD Initial diagnosis
+Vital signs ;Blood pressure / Heart rate ;MDD_PF ;Blood pressure / Heart rate ;Pulse rate of SpO2 ; ;
+Vital Signs; Blood Pressure / Heart Rate; MDD_IBP-syst; Blood Pressure / Heart Rate; Systolic arterial Pressure; ;
+Vital signs; Blood pressure / Heart rate; MDD_IBP; Blood pressure / Heart rate; with art pressure; ;
+Vital signs; Blood pressure / Heart rate; MDD_IBP-mean; Blood pressure / Heart rate; with type pressure; ;
+Vital Signs; Blood Pressure / Heart Rate; MDD_IBP-diastolic; Blood Pressure / Heart Rate; Arterial Dia Pressure;;
+Vital signs; Blood pressure / Heart rate; MDD_NBP-syst; Blood pressure / Heart rate; Non-invasive systolic pressure;;
+Vital signs; Blood pressure / Heart rate; Blood pressure / Heart rate; MDD_NBP-syst; Non-invasive systolic pressure; Initial diagnosis; Initial diagnosis
+Vital Signs; Blood Pressure / Heart Rate; MDD_NBP; Blood Pressure / Heart Rate; With noninvasive Pressure; ;
+Vital signs; Blood Pressure / Heart Rate; MDD_NBP-mean; Blood pressure / Heart rate; With non-invasive pressure; ;
+Vital signs; Blood pressure / Heart rate; MDD_NBP-diast; Blood pressure / Heart rate; Dia non-inv pressure;;
+Vital signs; Blood pressure / Heart rate; Blood pressure / Heart rate; MDD_NBP-diast; Dia noninvasive pressure; RD Initial diagnosis; RD Initial diagnosis
+Vital signs; Pulmonary Arterial Pressure; MDD_PAP-syst; pulmonary arterial pressure; Sys PAP Pressure;;
+Vital signs; Pulmonary arterial pressure; MDD_PAP; Pulmonary arterial pressure; With PAP pressure; ;
+Vital signs; Pulmonary arterial pressure; MDD_PAP-mean; pulmonary arterial pressure; With PAP pressure;;
+Vital signs ;Pulmonary Arterial Pressure ;MDD_PAP-diast ;pulmonary arterial pressure ;Dia PAP Pressure ; ;
+Vital signs monitoring; Spontaneous breathing rate; SpO2 / Breathing rate; Spontaneous breathing rate;;
+Vital signs monitoring; MDD_SAO2_2; SaO2 - Diagnostics; SpO2 - Diagnostics; ;
+Vital Signs Monitoring; MDD_Temp; Temperature; Temperature; ;
+Vital signs monitoring; Temperature; MDD_Temp; Temperature; Ear measurement; Ear measurement
+Vital signs monitoring; Temperature; MDD_Temp; Temperature; Rectal measurement; Rectal measurement
+Vital signs monitoring; Temperature; MDD_Temp; Temperature; Sublingual measurement; Sublingual measurement
+Vital signs monitoring; Temperature; MDD_Temp; Temperature; Axillary measurement; Axillary measurement
+Vital signs monitoring; Temperature; MDD_Temp; Temperature; ---; ---
+Vital signs monitoring; Temperature; MDD_Temp; Temperature; RD Initial diagnosis; RD Initial diagnosis
+Vital signs monitor; Blood; Temperature Blood; Blood; ;
+Vital Signs Monitoring; MDD_Temp1; Additional Temperature Monitoring; Additional Temperature Monitoring;;
+Vital signs; Hemodynamics; MDD_CVP; CVP; CVP (mmHg); ;
+"Vital signs; Hemodynamics; CVP; MDD_CVP; CVP (mmHg); Measurement point: V. Jugularis int.; Measurement point: V. Jugularis int. 
+
+(Note: ZVD stands for ""Zentraler Venendruck"" in German which translates to ""Central Venous Pressure"" in English, similarly abbreviated as CVP. ""V. Jugularis int"" refers to the internal jugular vein.)"
+Vital signs; Hemodynamics; CVP; MDD_CVP; CVP (mmHg); Measurement point: groin; Measurement point: groin
+Vital parameters; Hemodynamics; CVP; MDD_CVP; CVP (mmHg); Measurement point Subclavia; Measurement point Subclavia
+Vital signs; Hemodynamics; CVP; MDD_CVP; CVP (mmHg); without ventilation; without ventilation
+Vital signs; Hemodynamics; CVP; MDD_CVP; CVP (mmHg); with ventilation PEEP........; with ventilation PEEP........
+Vital Signs; Hemodynamics; CVP ;MDD_CVP ;CVP (mmHg) ;Curve inconspicuous ;Curve inconspicuous
+Vital signs; Hemodynamics; CVP; MDD_CVP; CVP (mmHg); A-wave present; A-wave present
+"Vital Signs; Hemodynamics; CVP; MDD_CVP; CVP (mmHg); V-Wave present; V-Wave present.
+(Note: CVP refers to Central Venous Pressure and MDD refers to Maximum Daily Dose, however, it's unclear how it's contextually applied here so translation might not be accurate.)"
+Vital signs; Hemodynamics PICCO; MDD_C.I .; CI (3-5); CI [l/min/m2] Cardiac Index;;
+Vital signs monitoring; MDD_SQI; SQI; SQI; ;
+Vital signs; Hemodynamics PICCO; MDD_SV; SV; SV [ml] Stroke volume; ;
+Vital signs monitoring; MDD_Tblood; Temperature; Blood Temperature (PICCO); ;
+Vital Signs Monitoring; MDD_BIS; BIS; BIS; ;
+Vital signs monitoring; MDD_Temp2; Additional temperature monitoring 2; Additional temperature monitoring 2; ;
+Vital signs; Hemodynamics PICCO; MDD_SVV; SVV; SVV [%] Stroke Volume Variation; ;
+Vital signs; Hemodynamics PICCO; MDD_SVRI; SVRI (1700-2400); SVRI; ;
+Vital signs; Hemodynamics PICCO; MDD_EVLWI; EVLWI (3-7); EVLWI [ml/kg] extravascular lung water index;;
+Vital Signs; Hemodynamics PICCO; MDD_ITBVI; ITBVI (850-1000); ITBVI [ml/m2] intrathoracic blood volume index; ;
+Vital Signs; Hemodynamics PICCO; MDD_GEDVI; GEDVI (680-800); GEDVI [ml/m2] Global End-diastolic Volume Index; ;
+"It seems like this text is not in a recognizable non-English language. It appears to be a mix of medical and technical terms. In English, this text would generally mean:
+
+Vital Signs; Hemodynamics PICCO; MDD_HI; HI (3-5); HI; ;"
+"This text appears to be a combination of technical medical terms and perhaps some coding or abbreviations that are unclear. In English, an approximation could be ""Vital signs; Hemodynamics PICCO; MDD_KOF; KOF; KOF; ;"". If there is more context available, I might be able to provide a more accurate translation."
+Vital signs; Blood pressure / Heart rate; MDD_ICP; ICP (Brain pressure); ICP (Brain pressure); ;
+Vital signs; NIRS; rSO2 frontal right; NIRS; rSO2 frontal right; ;
+Vital signs; NIRS; rSO2 frontal left; NIRS; rSO2 frontal left; ;
+Vital signs; NIRS; Mirus (MAC); NIRS; Mirus (MAC); ;
+Vital Signs ;Test1_old ;TestPara1 ;Test1_old ;TestPara1 ; ;
+Vital Signs; Blood Pressure / Heart Rate_old; Intraabdominal Pressure; Intraabdominal Pressure_old; Intraabdominal Pressure;;
+Vital signs; Comment; Comment_3; Comment; Comment; ;
+Vital Signs; Hemodynamics PICCO_old; MDD_CFI; CFI_old; CFI [1/min]; ;
+Vital signs; Narcotrend; Stage/Index; Narcotrend; Stage/Index; ;
+Vital signs; Narcotrend; Narcotrend; Stage/Index; Stage/Index; A; A
+Vital signs; Narcotrend; Narcotrend; Stage/Index; Stage/Index; B0; B0
+Vital Signs; Narcotrend; Narcotrend; Stage/Index; Stage/Index; B1; B1
+Vital signs; Narcotrend; Narcotrend; Stage /Index; Stage /Index; B2; B2
+Vital signs; Narcotrend; Narcotrend; Stage/Index; Stage/Index; C0; C0
+Vital signs; Narcotrend; Narcotrend; Stage/Index; Stage/Index; C1; C1
+Vital signs; Narcotrend; Narcotrend; Stage/Index; Stage/Index; C2; C2
+Vital signs; Narcotrend; Narcotrend; Stage/Index; Stage/Index; D0; D0
+Vital signs; Narcotrend; Narcotrend; Stage/Index; Stage/Index; D1; D1
+Vital signs; Narcotrend; Narcotrend; Stage / Index; Stage / Index; D2; D2
+Vital signs; Narcotrend; Narcotrend; Stage / Index; Stage / Index; E0; E0
+Vital signs; Narcotrend; Narcotrend; Stage/Index; Stage/Index; E1; E1
+Vital signs; Narcotrend; Narcotrend; Stage / Index; Stage / Index; E2; E2
+Vital signs; Narcotrend; Narcotrend; Stage / Index; Stage / Index; F0; F0
+Vital signs; Narcotrend; Narcotrend; Stage/Index; Stage/Index; F1; F1
+Vital signs; Narcotrend; Narcotrend; Stage/Index; Stage/Index; Comment; Comment
+Vital signs; Narcotrend; EEG type; Narcotrend; EEG type; ;
+Vital signs; Narcotrend; Narcotrend; EEG-Type; EEG-Type; 1-Channel; 1-Channel
+Vital signs ;Narcotrend ;Narcotrend ;EEG Type ;EEG Type ;2-channel ;2-channel
+Vital signs; Narcotrend; STI (ETP); Narcotrend; STI (ETP); ;
+Vital signs; Narkotrend_old; A_1; Narkotrend_old; A; ;
+Vital signs; Narkotrend_old; Comment; Narkotrend_old; Comment; ;
+Vital Signs; Narkotrend_old; Stage / Index; Narkotrend_old; Stage / Index; ;
+Vital signs ;Narkotrend_old ;Narkotrend_old ;Stage / Index ;Stage / Index ;A ;A
+Vital Signs; Old Anesthesia Trend; Old Anesthesia Trend; Stage / Index; Stage / Index; B0; B0
+Vital signs; Narkotrend_old; Narkotrend_old; Stage / Index; Stage / Index; B1; B1
+Vital Signs; Narkotrend_old; Narkotrend_old; Stage / Index; Stage / Index; B2; B2
+Vital signs; Narkotrend_old; Narkotrend_old; Stage / Index; Stage / Index; C0; C0
+Vital Signs; Anesthesia Trend_old; Anesthesia Trend_old; Stage / Index; Stage / Index; C1; C1
+Vital values; Narkotrend_old; Narkotrend_old; Stage / Index; Stage / Index; C2; C2
+Vital signs; Narkotrend_old; Narkotrend_old; Stage / Index; Stage / Index; D0; D0
+Vital signs; Narkotrend_old; Narkotrend_old; Stage / Index; Stage / Index; D1; D1
+Vital signs ;Narkotrend_old ;Narkotrend_old ;Stage / Index ;Stage / Index ;D2 ;D2
+Vital signs; Narkotrend_old; Narkotrend_old; Stage / Index; Stage / Index; E0; E0
+Vital signs; Narkotrend_old; Narkotrend_old; Stage / Index; Stage / Index; E1; E1
+Vital Signs; Narkotrend_old; Narkotrend_old; Stage / Index; Stage / Index; E2; E2
+Vital signs; Narcotrend_old; Narcotrend_old; Stage / Index; Stage / Index; F0; F0
+Vital signs; Narkotrend_old; Narkotrend_old; Stage / Index; Stage / Index; F1; F1
+Vital signs; Old Narcotrend; ILA Flow rate; Old Narcotrend; ILA Flow rate; ;
+Vital signs; ILA Novalung; ml/min; ILA Novalung; ml/min; ;
+Vital signs; Intra-abdominal pressure; Intra-abdominal pressure_1; Intra-abdominal pressure; Intra-abdominal pressure; ;
+Vital signs; MIRUS (Sevorane Vol%)_old; Sevo Vol%; MIRUS (Sevorane Vol%)_old; Sevo Vol%; ;
+Vital signs; MIRUS (MAC); MAC; MIRUS (MAC); MAC; ;
+Arrangements; Blood Sugar; BS; Blood Sugar; BS; ;
+Arrangements; Blood sugar; Blood sugar; BS; BS; determined on station; determined on station
+Arrangements; Blood sugar; Blood sugar; BG; BG; determined in the lab; determined in the lab
+Orders; Home laboratory; Blood gas analysis; BGA; Blood gas analysis; ;
+Arrangements; Home Laboratory; BGA; Blood Gas Analysis; Blood Gas Analysis; Z (Central Vein's,"""large profile); Z (Central Vein)""",large profile)
+Arrangements; House Laboratory; BGA; Blood Gas Analysis; Blood Gas Analysis; CV (Central Vein),Ventilation); CV (Central Vein),Ventilation)
+Arrangements; Home lab; BGA; Blood gas analysis; Blood gas analysis; ZB+ (Central Vein),Ventilation plus); CV+ (Central vein's,Ventilation plus)
+Arrangements; Home Laboratory; BGA; Blood Gas Analysis; Blood Gas Analysis; A (Arterial),large profile); A (Arterial),large profile)
+Arrangements; House laboratory; BGA; Blood gas analysis; Blood gas analysis; AB (Arterial),Ventilation); AB (Arterial),Ventilation)
+Arrangements; home laboratory; BGA; blood gas analysis; blood gas analysis; AB+ (Arterial),Ventilation plus); AB+ (Arterial),Ventilation plus)
+Arrangements; House Laboratory; BGA; Blood Gas Analysis; Blood Gas Analysis; V (Vein),"The text seems to be cut off or incomplete, but extracted elements could be translated to English as: ""large profile""; V (Venus).",(big profile)
+Arrangements; Home Laboratory; BGA; Blood Gas Analysis; Blood Gas Analysis; VB (Venous),"The text appears to be medical terms in German, but it seems incomplete. ""Beatmung"" translates to ""ventilation,"" and ""VB"" could stand for ""venous blood"" (""Venös"" means ""venous"" in German). However, without more context, it's difficult to provide a comprehensive translation.",Ventilation
+Arrangements; Home Laboratory; BGA; Blood Gas Analysis; Blood Gas Analysis; VB+ (Venous),Ventilation plus); VB+ (Venous,Ventilation plus)
+Arrangements; Home laboratory; BGA; Blood gas analysis; Blood gas analysis; K (Capillary),The given text seems to have special characters or typographical errors and therefore possibly cannot be accurately translated to English. Could you please provide the correct version of the text?,(large profile)
+Arrangements; Home Lab; BGA; Blood Gas Analysis; Blood Gas Analysis; KB (Capillary,Ventilation) ; KB (Capillary,Ventilation)
+Arrangements ;Home Laboratory ;BGA ;Blood Gas Analysis ;Blood Gas Analysis ;KB+ (Capillary,Ventilation plus); KB+ (Capillary,Ventilation plus)
+Arrangements; Home Laboratory; BGA; Blood Gas Analysis; Blood Gas Analysis; C/A Central Venous + Arterial; C/A Central Venous + Arterial
+Arrangements; Home laboratory; BGA; Blood gas analysis; Blood gas analysis; Z/K Central vein + Capillary; Z/K Central vein + Capillary
+Arrangements; Home Laboratory; Coagulation; Coagulation; Coagulation; ;
+Arrangements; Home Laboratory; Coagulation; Coagulation; Coagulation; Quick; Quick
+Arrangements; House Laboratory; Coagulation; Coagulation; Coagulation; aPTT; aPTT
+Arrangements; Home Laboratory; Coagulation; Coagulation; Coagulation; AT3; AT3
+Arrangements; Home laboratory; Coagulation; Coagulation; Coagulation; Fibrinogen; Fibrinogen
+Arrangements; Home Laboratory; Coagulation; Coagulation; Coagulation;--- ;---
+Arrangements; Home Laboratory; Coagulation; Coagulation; Coagulation; anti-Xa levels; anti-Xa levels
+Orders; Home Laboratory; Coagulation; Coagulation; Coagulation; Thrombin Time; Thrombin Time
+Arrangements; Home Laboratory; Coagulation; Coagulation; Coagulation; D-Dimer; D-Dimer
+Arrangements; Home Laboratory; Coagulation; Coagulation; Coagulation; ROTEM; ROTEM
+Arrangements; Home Laboratory; Coagulation; Coagulation; Coagulation; Fact. XIII; Fact. XIII
+Arrangements; Home Laboratory; Laboratory Profile D2/B2 Large; D2/B2 Large/Small; Laboratory Profile; ;
+Arrangements; Home lab; D2/B2 Large/Small; Lab Profile D2/B2 Large; Lab profile; D2/B2 Large; D2/B2 Large
+Arrangements; Home Lab; D2/B2 Large/Small; Lab Profile D2/B2 Large; Lab Profile; D2/B2 Small; D2/B2 Small
+Arrangements; House Laboratory; D2/B2 Large/Small; Laboratory Profile D2/B2 Large; Laboratory Profile; Dialysis D2; Dialysis D2
+Arrangements; Home Laboratory; Fat Values; Fats; Fat Values;;
+Arrangements; Home Lab; Fats; Fat values; Fat values; Triglycerides; Triglycerides
+Arrangements; Home laboratory; Fats; Fat values; Fat values; HDL; HDL
+Arrangements; Home Laboratory; Fats; Fat Values; Fat Values; LDL; LDL
+Arrangements; Home Laboratory; Fats; Fat Values; Fat Values; Cholesterol; Cholesterol
+Arrangements; House Laboratory; Individual Laboratory Parameters; Special Laboratory Values in our House; Individual Laboratory Parameters (Free Text); ;
+Arrangements; House Laboratory; Histogram/Elpho/U-Status; Histo/Elpho/U-Status; Histogram/Elpho/Urine; ;
+Arrangments; Home laboratory; Histo/Elpho/U-status; Histogram/Elpho/U-status; Histogram/Elpho/Urine; Histogram; Histogram.
+Arrangements; House Lab; Histo/Elpho/U-Status; Histogram/Elpho/U-Status; Histogram/Elpho/Urine; for Creatinine Clearance; for Creatinine Clearance
+Arrangements; Home Laboratory; Histo/Elpho/U-Status; Histogram/Elpho/U-Status; Histogram/Elpho/Urine; Electrophoresis; Electrophoresis.
+Arrangements; Home Lab; Histo/Elpho/U-Status; Histogram/Elpho/U-Status; Histogram/Elpho/Urine; for catecholamines in urine; for catecholamines in urine.
+Arrangements; Home Laboratory; Histo/Elpho/U-Status; Histogram/Elpho/U-Status; Histogram/Elpho/Urine; U-Status; U-Status
+Arrangements; Home Lab; Histo/Elpho/U-Status; Histogram/Elpho/U-Status; Histogram/Elpho/Urine; --; --
+Arrangements; Home lab; Histo/Elpho/U-Status; Histogram/Elpho/U-Status; Histogram/Elpho/Urine; 24h collection urine for creatinine clearance; 24h collection urine for creatinine clearance
+Arrangements ;House Laboratory ;Special Lab Values ;Special Lab Values in our House ;Special Lab Values ; ;
+Arrangements; Home laboratory; Special laboratory values in our house; Special laboratory values; Special laboratory values; CRP; CRP.
+Arrangements; House Laboratory; Special Laboratory Values at Our House; Special Laboratory Values; Special Laboratory Values; PCT; PCT
+Arrangements; Home laboratory; Special laboratory values in our house; Special laboratory values; Special laboratory values; Small blood count; Small blood count
+Arrangements; Home Laboratory; Special Laboratory Values in our House; Special Laboratory Values; Special Laboratory Values; HbA1c; HbA1c
+Arrangements; Home Laboratory; Special Laboratory Values in our House; Special Laboratory Values; Special Laboratory Values; ---; ---
+Arrangements; Home Laboratory; Special Lab Values in our House; Special Lab Values; Special Lab Values; Digitoxin; Digitoxin
+Arrangements; Home Laboratory; Special Laboratory Values at Our Place; Special Laboratory Values; Special Laboratory Values; Digoxin; Digoxin
+Arrangements; Home laboratory; Special laboratory values in our house; Special laboratory values; Special laboratory values; FT3 + FT4; FT3 + FT4
+Arrangements; Home laboratory; Special laboratory values in our house; Special laboratory values; Special laboratory values; proBNP; proBNP
+Arrangements; House Lab; Special Lab Values at our House; Special Lab Values; Special Lab Values; ß-HCG; ß-HCG
+Arrangements; House Laboratory; Special Laboratory Values in Our House; Special Laboratory Values; Special Laboratory Values; TSH after TRH; TSH after TRH.
+Arrangements; Home Laboratory; Special Laboratory Values in our House; Special Laboratory Values; Special Laboratory Values; TSH-basal; TSH-basal
+Arrangements; Home Laboratory; Special Laboratory Values in Our House; Special Laboratory Values; Special Laboratory Values; T-Protein; T-Protein
+Arrangements; Home Lab; Special Lab Values in our House; Special Lab Values; Special Lab Values; Albumin; Albumin
+Arrangements; House Laboratory; Special Laboratory Values in our House; Special Laboratory Values; Special Laboratory Values; Vitamin B12 + Folic Acid; Vitamin B12 + Folic Acid.
+Arrangements; House Laboratory; Special laboratory values in our house; Special laboratory values; Special laboratory values; Iron; Iron
+Arrangements; In-house laboratory; Special laboratory values in our house; Special laboratory values; Special laboratory values; Ferritin; Ferritin
+Arrangements; Home Laboratory; Special Laboratory Values at our House; Special Laboratory Values; Special Laboratory Values; Transferrin; Transferrin
+Arrangements; Home laboratory; Special laboratory values at our house; Special laboratory values; Special laboratory values; Transferrin saturation; Transferrin saturation
+Arrangements; House Laboratory; Special Laboratory Values in our House; Special Laboratory Values; Special Laboratory Values; Total Calcium Serum; Total Calcium Serum
+Arrangements; Home Laboratory; Special laboratory values in our house; Special laboratory values; Special laboratory values; Phosphate; Phosphate.
+Arrangements; In-house Laboratory; Special Laboratory Values in our House; Special Laboratory Values; Special Laboratory Values; ---; ---
+Arrangements; Home Laboratory; Special Laboratory Values in Our House; Special Laboratory Values; Special Laboratory Values; CK + CK MB; CK + CK MB
+Arrangements; House laboratory; Special laboratory values in our house; Special laboratory values; Special laboratory values; Troponin T; Troponin T
+Arrangements; Home Laboratory; Special laboratory values in our house; Special laboratory values; Special laboratory values; --- ; ---
+Arrangements; Home Laboratory; Special Laboratory Values at our House; Special Laboratory values; Special Laboratory Values; anti HAV; anti HAV.
+Arrangements; Home laboratory; Special laboratory values with us in the house; Special laboratory values; Special laboratory values; anti HBc; anti HBc.
+Arrangements; Home Laboratory; Special Laboratory Values at Our House; Special Laboratory Values; Special Laboratory Values; anti HCV; anti HCV
+Arrangements; House lab; Special laboratory values in our house; Special laboratory values; Special laboratory values; HBsAG; HBsAG.
+Arrangements; Home Laboratory; Special Laboratory Values in our House; Special Laboratory Values; Special Laboratory Values; HIV-1/ HIV-2; HIV-1/ HIV-2
+Arrangements; Home Laboratory; Special Laboratory Values at our House; Special Laboratory Values; Special Laboratory Values; ---; ---
+Arrangements; Home Laboratory; Special Laboratory Values at Our House; Special Laboratory Values; Special Laboratory Values; AFP; AFP
+Arrangements; House Laboratory; Special Laboratory Values in Our House; Special Laboratory Values; Special Laboratory Values; CA125; CA125
+Arrangements; Home Laboratory; Special Laboratory Values with us in the House; Special Laboratory Values; Special Laboratory Values; CA15-3; CA15-3
+Arrangements; Home Laboratory; Special Laboratory Values in our House; Special Laboratory Values; Special Laboratory Values; CA19-9; CA19-9
+Arrangements; Home Laboratory; Special Laboratory Values in our House; Special Laboratory Values; Special Laboratory Values; CEA; CEA.
+Arrangements; House lab; Special lab values in our house; Special lab values; Special lab values; PSA; PSA
+Arrangements; Home Laboratory; Special Laboratory Values at our house; Special Laboratory Values; Special Laboratory Values; S100; S100
+Arrangements; Home laboratory; Special laboratory values in our house; Special laboratory values; Special laboratory values; --; --
+Arrangements; Home Laboratory; Special Laboratory Values in Our House; Special Laboratory Values; Special Laboratory Values; GOT; GOT
+Arrangements; In-house Laboratory; Special Laboratory Values in our House; Special Laboratory Values; Special Laboratory Values; GPT; GPT
+Arrangements; House laboratory; Special laboratory values in our house; Special laboratory values; Special laboratory values; CHE; CHE
+Arrangements; Home Laboratory; Special laboratory values at our house; Special laboratory values; Special laboratory values; yGT; yGT
+Arrangements; Home Laboratory; Special Laboratory Values at our House; Special Laboratory Values; Special Laboratory Values; AP; AP
+Arrangements; House Laboratory; Special Laboratory Values at Our House; Special Laboratory Values; Special Laboratory Values; LDH; LDH
+Arrangements; Home Laboratory; Special Laboratory Values in our House; Special Laboratory Values; Special Laboratory Values; Total Bilirubin; Total Bilirubin
+Arrangements; House Laboratory; Special laboratory values in our house; Special laboratory values; Special laboratory values; Direct Bilirubin; Direct Bilirubin
+Arrangements; Home Laboratory; Special Laboratory Values in our House; Special Laboratory Values; Special Laboratory Values; Lipase; Lipase
+Instructions; Home laboratory; Special laboratory values in our house; Special laboratory values; Special laboratory values; --; --
+Arrangements; House laboratory; Special laboratory values in our house; Special laboratory values; Special laboratory values; Haemocult letter; Haemocult letter
+Arrangements; Home laboratory; Special laboratory values in our house; Special laboratory values; Special laboratory values; --; --
+Arrangements; Lab Dialogue - Clinical Chemistry; Lab Dialogue - Clinical Chemistry; Lab Dialogue - Clinical Chemistry; Lab Dialogue - Clinical Chemistry; ;
+Arrangements; Laboratory Dialogue - Clinical Chemistry; Laboratory Dialogue - Clinical Chemistry; Laboratory Dialogue - Clinical Chemistry; Laboratory Dialogue - Clinical Chemistry; Amiodarone; Amiodarone
+Arrangements; Lab Dialogue - Clinical Chemistry; Lab Dialogue - Clinical Chemistry; Lab Dialogue - Clinical Chemistry; Lab Dialogue - Clinical Chemistry; Carbamazepine; Carbamazepine
+Arrangements; Lab Dialogue - Clinical Chemistry; Lab Dialogue - Clinical Chemistry; Lab Dialogue - Clinical Chemistry; Lab Dialogue - Clinical Chemistry; Gentamicin; Gentamicin
+Arrangements; Laboratory Dialogue - Clinical Chemistry; Laboratory Dialogue - Clinical Chemistry; Laboratory Dialogue - Clinical Chemistry; Laboratory Dialogue - Clinical Chemistry; Levetiracetam; Levetiracetam
+Arrangements; Laboratory Dialogue - Clinical Chemistry; Laboratory Dialogue - Clinical Chemistry; Laboratory Dialogue - Clinical Chemistry; Laboratory Dialogue - Clinical Chemistry; Lithium; Lithium
+Arrangements; Lab Dialogue - Clinical Chemistry; Lab Dialogue - Clinical Chemistry; Lab Dialogue - Clinical Chemistry; Lab Dialogue - Clinical Chemistry; Meropenem; Meropenem
+Arrangements; Laboratory Dialogue - Clinical Chemistry; Laboratory Dialogue - Clinical Chemistry; Laboratory Dialogue - Clinical Chemistry; Laboratory Dialogue - Clinical Chemistry; Valproic acid; Valproic acid.
+Arrangements; Lab Dialogue - Clinical Chemistry; Lab Dialogue - Clinical Chemistry; Lab Dialogue - Clinical Chemistry; Lab Dialogue - Clinical Chemistry; Vancomycin; Vancomycin
+Arrangements; Laboratory Dialogue - Clinical Chemistry; Laboratory Dialogue - Clinical Chemistry; Laboratory Dialogue - Clinical Chemistry; Laboratory Dialogue - Clinical Chemistry; Voriconazole; Voriconazole
+Arrangements; Lab Dialogue - Clinical Chemistry; Result_3; Lab Dialogue - Clinical Chemistry; Result; ;
+Arrangements; Labor Dialogue - MiBi; Labor Lehrte; Lab UMG - MiBi; MiBi - Sample; ;
+Arrangements; Laboratory Dialogue - MiBi; Laboratory UMG - MiBi; Laboratory Lehrte; MiBi - Sample; Influenza Swab; Other Influenza Swab
+Arrangements; Laboratory Dialog - MiBi; Laboratory UMG - MiBi; Lehrte Laboratory; MiBi - Sample; left; Intraoperative wound swab ear left
+Arrangements; Lab Dialogue - MiBi; Lab UMG - MiBi; Lab Lehrte; MiBi - Sample; Blood Culture; Cultures Blood Culture
+"Arrangements; Laboratory Dialogue - MiBi; Laboratory UMG - MiBi; Laboratory Lehrte; MiBi - Sample; ""Blood culture from """"LIQUOR""""""; ""Cultures Blood culture Blood culture from """"LIQUOR"""""""
+Arrangements; Lab Dialog - MiBi; Lab UMG - MiBi; Lab Lehrte; MiBi - Sample; Cultures; Cultures
+Arrangements; Lab Dialog - MiBi; Lab UMG - MiBi; Lab Lehrte; MiBi - Sample; Stool culture; Cultures stool culture.
+Arrangements; Lab dialogue - MiBi; Lab UMG - MiBi; Lab Lehrte; MiBi - Sample; Wound swab; Wound swab.
+"Arrangements; Lab Dialogue - MiBi; Lab UMG - MiBi; Lab Lehrte; MiBi - Sample; ""Blood culture from """"ARTERY""""""; ""Cultural Blood culture Blood culture from """"ARTERY"""""""
+Arrangements; Lab Dialogue - Microbiology; Lab UMG - Microbiology; Lab Lehrte; Microbiology - Sample; right; Intraoperative ear swab right
+Arrangements; Lab Dialogue - MiBi; Lab UMG - MiBi; Lab Lehrte; MiBi - Sample; Other Smear (see comment); Miscellaneous Other Smear (see comment)
+"Arrangements; Laboratory Dialogue - MiBi; UMG Laboratory - MiBi; Lehrte Laboratory; MiBi - Sample; ""Blood culture from """"CVC""""""; ""Cultures Blood culture Blood culture from """"CVC"""""""
+Arrangements; Lab Dialogue - Microbiology; Lab UMG - Microbiology; Lab Lehrte; Microbiology - Sample; Tracheal Secretion; Cultures Tracheal Secretion
+Arrangements; Lab Dialogue - MiBi; Lab UMG - MiBi; Lab Lehrte; MiBi - Sample; Other Culture (see comment); Other Other Culture (see comment).
+Arrangements; Laboratory Dialogue - MiBi; Laboratory UMG - MiBi; Laboratory Lehrte; MiBi - Sample; Miscellaneous; Miscellaneous
+Arrangements; Lab Dialog - MiBi; Lab UMG - MiBi; Lab Lehrte; MiBi - Sample; Other (see comment); Other Other (see comment)
+"Arrangements; Lab Dialogue - MiBi; Lab UMG - MiBi; Lab Lehrte; MiBi - Sample; ""Blood culture from """"PLEURAL EFFUSION""""""; ""Cultures Blood culture Blood culture from """"PLEURAL EFFUSION"""""""
+Arrangements; Lab Dialogue - MiBi; Lab UMG - MiBi; Lab Lehrte; MiBi - Sample; BAL Bronchoalveolar Lavage; Cultures BAL Bronchoalveolar Lavage
+"Arrangements; Lab Dialogue - MiBi; Lab UMG - MiBi; Lab Lehrte; MiBi - Sample; ""Blood culture from """"ASCITES"""""" ;""Cultures Blood culture Blood culture from """"ASCITES"""""""
+Arrangements; Lab Dialogue - MiBi; Lab UMG - MiBi; Laboratory Lehrte; MiBi - Sample; Urine Culture; Cultures Urine Culture
+Arrangements; Laboratory Dialogue - MiBi; UMG Laboratory - MiBi; Lehrte Laboratory; MiBi - Sample; Legionella pneumophila Antigen Serotype 1; Other Legionella pneumophila Antigen Serotype 1.
+"Arrangements; Laboratory Dialogue - MiBi; Laboratory UMG - MiBi; Lehrte Laboratory; MiBi - Sample; ""Blood culture from """"PERIPHERY""""""; ""Cultures Blood Culture Blood Culture from """"PERIPHERY""""""."
+Arrangements; Lab Dialogue - MiBi; Lab UMG - MiBi; Lab Lehrte; MiBi - Sample; intraoperative; intraoperative wound swab
+Arrangements; Lab Dialogue - MiBi; Lab UMG - MiBi; Lab Lehrte; MiBi - Sample; Ear; Intraoperative wound swab ear
+Arrangements; Lab Dialog - MiBi; Lab UMG - MiBi; Lab Lehrte; MiBi - Sample; on Station; Swab on Station
+Arrangements; Lab Dialogue - MiBi; Lab UMG - MiBi; Lehrte Lab; MiBi - Sample; Nose; Intraoperative nasal swab
+Arrangements; Lab Dialogue - MiBi; Lab UMG - MiBi; Lab Lehrte; MiBi - Sample; Ear; Wound swab on ear station
+Arrangements; Lab Dialog - MiBi; Lab UMG - MiBi; Lab Lehrte; MiBi - Sample; Throat; Intraoperative throat wound swab
+Arrangements; Lab Dialogue - Microbiology; Lab UMG - Microbiology; Lab Lehrte; Microbiology - Sample; Nose; Swab Test on Station Nose
+Arrangements; Lab Dialogue - MiBi; Lab UMG - MiBi; Lab Lehrte; MiBi - Sample; Eye; Intraoperative wound swab eye
+Arrangements; Lab Dialogue - Microbiology ; Lab UMG - Microbiology ;Lehrte Lab ;Microbiology - Sample ;Throat ;Wound swab at Throat Station
+Arrangements; Lab Dialogue - MiBi; Lab UMG - MiBi; Lab Lehrte; MiBi - Sample; Tonsils; Intraoperative swab tonsils
+Arrangements; Lab Dialogue - Microbiology; UMG Lab - Microbiology; Lehrte Lab; Microbiology - Sample; Eye; Swab from a wound at Eye Station
+Arrangements; Lab Dialogue - MiBi; Lab UMG - MiBi; Lab Lehrte; MiBi - Sample; Tonsils; Wound swab at Tonsils station.
+Arrangements; Laboratory Dialogue - MiBi; Laboratory UMG - MiBi; Laboratory Lehrte; MiBi - Sample; Genital; Intraoperative swab genital wound
+Arrangements; Laboratory Dialogue - MiBi; Laboratory UMG - MiBi; Laboratory Lehrte; MiBi - Sample; Genital; Wound swab on station Genital
+Arrangements; Lab Dialog - MiBi; UMG Lab - MiBi; Lehrte Lab; MiBi - Sample; Cervix; Intraoperative swab Cervix
+Arrangements; Lab Dialogue - MiBi; Lab UMG - MiBi; Lab Lehrte; MiBi - Sample; Cervix; Wound swab on station Cervix
+Arrangements; Laboratory Dialogue - Microbiology; UMG Laboratory - Microbiology; Lehrte Laboratory; Microbiology - Sample; Anal; Intraoperative anal swab
+Arrangements; Lab Dialogue - MiBi; Lab UMG - MiBi; Lab Lehrte; MiBi - Sample; Anal; Swab taken in ward anal.
+Arrangements; Lab Dialogue - MiBi; Lab UMG - MiBi; Lab Lehrte; MiBi - Sample; Urethra; Intraoperative Wound Smear Urethra
+Arrangements; Lab Dialogue - MiBi; Lab UMG - MiBi; Lehrte Lab; MiBi - Sample; Urethra; Swab wound in Urethra Station.
+Arrangements; Laboratory Dialogue - MiBi; Laboratory UMG - MiBi; Laboratory Lehrte; MiBi - Sample; Vulva; Intraoperative wound swab Vulva
+Arrangements; Lab Dialog - MiBi; Lab UMG - MiBi; Lab Lehrte; MiBi - Sample; Vulva; Wound swab on station Vulva
+Arrangements; Lab Dialogue - MiBi; Lab UMG - MiBi; Lab Lehrte; MiBi - Sample; Others (enter localization in comment!); Intraoperative wound smear Others (enter localization in comment!)
+Arrangements; Laboratory Dialogue - MiBi; Laboratory UMG - MiBi; Lehrte Laboratory; MiBi - Test; left; Intraoperative Eye Swab Left
+Arrangements; Lab Dialogue - MiBi; Lab UMG - MiBi; Lab Lehrte; MiBi - Sample; Wound; Intraoperative wound swab
+Arrangements; Lab Dialogue - MiBi; Lab UMG - MiBi; Lab Lehrte; MiBi - Sample; Other (enter location in comment!); Swab from wound in other station (enter location in comment!)
+Arrangements; Laboratory Dialogue - MiBi; Laboratory UMG - MiBi; Lehrte Laboratory; MiBi - Sample; Wound; Wound swab on ward Wound
+Arrangements; Lab Dialogue - MiBi; Lab UMG - MiBi; Lab Lehrte; MiBi - Sample; right; intraoperative swab of right eye wound
+Arrangements; Lab Dialogue - MiBi; Lab UMG - MiBi; Lab Lehrte; MiBi - Sample; left; Intraoperative throat swab left tonsil
+"Arrangements; Lab Dialogue - MiBi; UMG Lab - MiBi; Lehrte Lab; MiBi - Sample; right; intraoperative throat swab right tonsils
+"
+Arrangements; Laboratory Dialog - MiBi; Laboratory UMG - MiBi; Laboratory Lehrte; MiBi - Sample; left; Swab from wound at station ear left
+Arrangements; Lab Dialogue - MiBi; Lab UMG - MiBi; Lab Lehrte; MiBi - Sample; left; Wound swab on ward tonsils left
+Arrangements; Lab Dialogue - MiBi; Lab UMG - MiBi; Lab Lehrte; MiBi - Sample; left; Swab from wound on left eye ward
+Arrangements; Lab Dialogue - MiBi; Lab UMG - MiBi; Lab Lehrte; MiBi - Sample; right; Swab from right eye wound on ward
+Arrangements; Lab dialogue - MiBi; Lab UMG - MiBi; Lehrte Lab; MiBi - Sample; right; Swab from wound at right ear station
+Arrangements; Lab Dialogue - MiBi; Lab UMG - MiBi; Lab Lehrte; MiBi - Sample; right; Swab from wound at station tonsils right
+Arrangements; Laboratory Dialogue - Allergy; Laboratory Dialogue Allergy; Laboratory Dialogue - Allergy; Laboratory Dialogue Allergy; ;
+Arrangements; Lab Dialogue - Molecular Genetics; Dialogue Molecular Genetics; Dialogue Molecular Genetics; Lab Dialogue - Molecular Genetics; ;
+Arrangements; Laboratory Dialogue - Allergy; Laboratory Dialogue; Laboratory Dialogue - Allergy; Result; ;
+Arrangements; Lab Dialogue - Molecular Genetics; Result_2; Dialogue Molecular Genetics; Result; ;
+Arrangements; BGA arterial_old; completed; BGA arterial_old; completed; ;
+Arrangements; D2 Small_old; HB; HB_alt; HB; ;
+Arrangements; D2 Small_old; done_3; D2 Small_old; done; ;
+"The text appears to be in a coded or non-standard format that doesn't correspond to a known language or structure, so it can't be translated into English. Please provide a valid text to translate."
+"The text seems to be a repetition of some German words and symbols and it doesn't form a coherent sentence or phrase that can be translated into English. It seems like ""Mibi_alt"" is a username or a system command, ""angenommen"" is German for ""accepted"", and ""Anordnungen"" is German for ""arrangements"" or ""orders"". Please provide a coherent sentence in context for a meaningful translation."
+Arrangements; BGA venous_old; done_1; BGA venous_old; done; ;
+The text provided seems to be either coded or not in a recognizable language. Please provide a proper sentence for translation.
+Arrangements; Home Laboratory_old; Laboratory Profile; Home Laboratory_old; Laboratory Profile; ;
+Arrangements; Home lab_old; Limbach lab; Foreign lab_old; Limbach lab; ;
+Arrangements; Home Laboratory_old; Cultures; Cultures_old; Cultures;;
+Arrangements; Old_HomeLab; Old_Cultures; Cultures; Cultures; B_blood cultures; B_blood cultures
+Arrangements; House Laboratory_old; Cultures_old; Cultures; Cultures; Stool Cultures; Stool Cultures
+Arrangements; Home Lab_old; Cultures_old; Cultures; Cultures; T tracheal Secret; T tracheal Secret
+Arrangements; Home Lab_old; Cultures_old; Cultures; Cultures; BAL; BAL
+Arrangements; Home Lab_old; Cultures_old; Cultures; Cultures; Surgical Swab; Surgical Swab
+Arrangements; Home Lab_old; Lab profile D2/B2 small; D2/B2 Large/small_old; D2 / B2 small; ;
+Arrangements; Home Laboratory_old; MRSA Swabs; MRSA_old; MRSA Swabs; ;
+Instructions; Home Laboratory_old; MRSA_old; MRSA Swabs; MRSA Swabs; Wound - swab; Wound - swab
+Arrangements; Home lab_old; MRSA_old; MRSA swabs; MRSA swabs; Skin - swab; Skin - swab
+Arrangements; Home Laboratory_old; MRSA_old; MRSA Swabs; MRSA Swabs; N/R - swab; N/R - swab
+Arrangements; Lab Dialogue - MiBi; Results_1; UMG Lab - MiBi; Results; ;
+Arrangements; Sono_old; TEE; Sono_old; TEE; ;
+Arrangements; Sono_alt; TTE; Sono_alt; TTE; ;

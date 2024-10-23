@@ -1,0 +1,12 @@
+Cattext_name;Dialogfenster;Parameter;Oberbegriff;Bezeichnung;Vorlage_txt;Text_pfad
+Vitalwerte;�berwachung;MDD_SaO2;SpO2 / Atemfrequenz;SpO2 - �berwachung; ; 
+Vitalwerte;�berwachung;MDD_AF;SpO2 / Atemfrequenz;Atemfrequenz; ; 
+Vitalwerte;Blutdruck / Herzfrequenz;MDD_HF;Blutdruck / Herzfrequenz;Herzfrequenz; ; 
+Vitalwerte;Blutdruck / Herzfrequenz;Blutdruck / Herzfrequenz;MDD_HF;Herzfrequenz;RD Erstbefund;RD Erstbefund
+Vitalwerte;Blutdruck / Herzfrequenz;MDD_PF;Blutdruck / Herzfrequenz;Pulsfrequenz von SpO2; ; 
+Vitalwerte;Blutdruck / Herzfrequenz;MDD_IBP-syst;Blutdruck / Herzfrequenz;Sys art Druck; ; 
+Vitalwerte;Blutdruck / Herzfrequenz;MDD_IBP;Blutdruck / Herzfrequenz;mit art Druck; ; 
+Vitalwerte;Blutdruck / Herzfrequenz;MDD_IBP-mean;Blutdruck / Herzfrequenz;mit art Druck; ; 
+Vitalwerte;Blutdruck / Herzfrequenz;MDD_IBP-diast;Blutdruck / Herzfrequenz;Dia art Druck; ; 
+Vitalwerte;Blutdruck / Herzfrequenz;MDD_NBP-syst;Blutdruck / Herzfrequenz;Sys noninv Druck; ; 
+Vitalwerte;Blutdruck / Herzfrequenz;Blutdruck / Herzfrequenz;MDD_NBP-syst;Sys noninv Druck;RD Erstbefund;RD Erstbefund

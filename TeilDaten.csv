@@ -1,0 +1,50 @@
+Cattext_name;Dialogfenster;Parameter;Oberbegriff;Bezeichnung;Vorlage_txt;Text_pfad
+Vitalwerte;�berwachung;MDD_SaO2;SpO2 / Atemfrequenz;SpO2 - �berwachung; ; 
+Vitalwerte;�berwachung;MDD_AF;SpO2 / Atemfrequenz;Atemfrequenz; ; 
+Vitalwerte;Blutdruck / Herzfrequenz;MDD_HF;Blutdruck / Herzfrequenz;Herzfrequenz; ; 
+Vitalwerte;Blutdruck / Herzfrequenz;Blutdruck / Herzfrequenz;MDD_HF;Herzfrequenz;RD Erstbefund;RD Erstbefund
+Vitalwerte;Blutdruck / Herzfrequenz;MDD_PF;Blutdruck / Herzfrequenz;Pulsfrequenz von SpO2; ; 
+Vitalwerte;Blutdruck / Herzfrequenz;MDD_IBP-syst;Blutdruck / Herzfrequenz;Sys art Druck; ; 
+Vitalwerte;Blutdruck / Herzfrequenz;MDD_IBP;Blutdruck / Herzfrequenz;mit art Druck; ; 
+Vitalwerte;Blutdruck / Herzfrequenz;MDD_IBP-mean;Blutdruck / Herzfrequenz;mit art Druck; ; 
+Vitalwerte;Blutdruck / Herzfrequenz;MDD_IBP-diast;Blutdruck / Herzfrequenz;Dia art Druck; ; 
+Vitalwerte;Blutdruck / Herzfrequenz;MDD_NBP-syst;Blutdruck / Herzfrequenz;Sys noninv Druck; ; 
+Vitalwerte;Blutdruck / Herzfrequenz;Blutdruck / Herzfrequenz;MDD_NBP-syst;Sys noninv Druck;RD Erstbefund;RD Erstbefund
+Vitalwerte;Blutdruck / Herzfrequenz;MDD_NBP;Blutdruck / Herzfrequenz;Mit noninv Druck; ; 
+Vitalwerte;Blutdruck / Herzfrequenz;MDD_NBP-mean;Blutdruck / Herzfrequenz;Mit noninv Druck; ; 
+Vitalwerte;Blutdruck / Herzfrequenz;MDD_NBP-diast;Blutdruck / Herzfrequenz;Dia noninv Druck; ; 
+Vitalwerte;Blutdruck / Herzfrequenz;Blutdruck / Herzfrequenz;MDD_NBP-diast;Dia noninv Druck;RD Erstbefund;RD Erstbefund
+Vitalwerte;Pulmonalarterieller Druck;MDD_PAP-syst;pulmonalarterieller Druck;Sys PAP Druck; ; 
+Vitalwerte;Pulmonalarterieller Druck;MDD_PAP;pulmonalarterieller Druck;Mit PAP Druck; ; 
+Vitalwerte;Pulmonalarterieller Druck;MDD_PAP-mean;pulmonalarterieller Druck;Mit PAP Druck; ; 
+Vitalwerte;Pulmonalarterieller Druck;MDD_PAP-diast;pulmonalarterieller Druck;Dia PAP Druck; ; 
+Vitalwerte;�berwachung;Atemfrequenz spontan;SpO2 / Atemfrequenz;Atemfrequenz spontan; ; 
+Vitalwerte;�berwachung;MDD_SAO2_2;SaO2 - Diagnostik;SpO2 - Diagnostik; ; 
+Vitalwerte;�berwachung;MDD_Temp;Temperatur;Temperatur; ; 
+Vitalwerte;�berwachung;Temperatur;MDD_Temp;Temperatur;Ohrmessung;Ohrmessung
+Vitalwerte;�berwachung;Temperatur;MDD_Temp;Temperatur;Rectalmessung;Rectalmessung
+Vitalwerte;�berwachung;Temperatur;MDD_Temp;Temperatur;Sublingualmessung;Sublingualmessung
+Vitalwerte;�berwachung;Temperatur;MDD_Temp;Temperatur;Axillarmessung;Axillarmessung
+Vitalwerte;�berwachung;Temperatur;MDD_Temp;Temperatur;---;---
+Vitalwerte;�berwachung;Temperatur;MDD_Temp;Temperatur;RD Erstbefund;RD Erstbefund
+Vitalwerte;�berwachung;TBlut;Temperatur Blut;TBlut; ; 
+Vitalwerte;�berwachung;MDD_Temp1;Temperatur Zusatz �berwachung;Temperatur Zusatz �berwachung; ; 
+Vitalwerte;H�modynamik;MDD_ZVD;ZVD;ZVD (mmHg); ; 
+Vitalwerte;H�modynamik;ZVD;MDD_ZVD;ZVD (mmHg);Messpunkt: V. Jugularis int.;Messpunkt: V. Jugularis int.
+Vitalwerte;H�modynamik;ZVD;MDD_ZVD;ZVD (mmHg);Messpunkt: Leiste;Messpunkt: Leiste
+Vitalwerte;H�modynamik;ZVD;MDD_ZVD;ZVD (mmHg);Messpunkt Subclavia;Messpunkt Subclavia
+Vitalwerte;H�modynamik;ZVD;MDD_ZVD;ZVD (mmHg);ohne Beatmung;ohne Beatmung
+Vitalwerte;H�modynamik;ZVD;MDD_ZVD;ZVD (mmHg);mit Beatmung PEEP........;mit Beatmung PEEP........
+Vitalwerte;H�modynamik;ZVD;MDD_ZVD;ZVD (mmHg);Kurve unauff�llig;Kurve unauff�llig
+Vitalwerte;H�modynamik;ZVD;MDD_ZVD;ZVD (mmHg); A-  Welle vorhanden; A-  Welle vorhanden
+Vitalwerte;H�modynamik;ZVD;MDD_ZVD;ZVD (mmHg);V- Welle vorhanden;V- Welle vorhanden
+Vitalwerte;H�modynamik PICCO;MDD_C.I.;CI (3-5)  ;CI [l/min/m2] Cardiac Index ; ; 
+Vitalwerte;�berwachung;MDD_SQI;SQI;SQI; ; 
+Vitalwerte;H�modynamik PICCO;MDD_SV;SV;SV [ml]                 Schlagvolumen; ; 
+Vitalwerte;�berwachung;MDD_Tblood;Temperatur;Temperatur Blut (PICCO); ; 
+Vitalwerte;�berwachung;MDD_BIS;BIS;BIS; ; 
+Vitalwerte;�berwachung;MDD_Temp2;Temperatur Zusatz �berwachung 2;Temperatur Zusatz �berwachung 2; ; 
+Vitalwerte;H�modynamik PICCO;MDD_SVV;SVV;SVV [%]                Schlagvolumen Variation; ; 
+Vitalwerte;H�modynamik PICCO;MDD_SVRI;SVRI    ( 1700-2400 );SVRI; ; 
+Vitalwerte;H�modynamik PICCO;MDD_EVLWI;EVLWI     ( 3-7 );EVLWI [ml/kg]       extravaskul�res Lungenwasser Index; ; 
+Vitalwerte;H�modynamik PICCO;MDD_ITBVI;ITBVI   ( 850-1000 );ITBVI [ml/m2]       intrathorakales Blutvolumen Index; ; 
